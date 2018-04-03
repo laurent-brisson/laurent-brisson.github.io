@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Academic Page</title>
-    <link>https://laurent-brisson.github.io/project/</link>
+    <link>https://www.laurent-brisson.fr/project/</link>
     <description>Recent content in Projects on Academic Page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-en</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Fri, 30 Mar 2018 18:26:13 +0200</lastBuildDate>
     
-	<atom:link href="https://laurent-brisson.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.laurent-brisson.fr/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Immersive Visualisation</title>
-      <link>https://laurent-brisson.github.io/project/immersive-visualisation/</link>
+      <link>https://www.laurent-brisson.fr/project/immersive-visualisation/</link>
       <pubDate>Fri, 30 Mar 2018 18:26:13 +0200</pubDate>
       
-      <guid>https://laurent-brisson.github.io/project/immersive-visualisation/</guid>
+      <guid>https://www.laurent-brisson.fr/project/immersive-visualisation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pedagogy</title>
-      <link>https://laurent-brisson.github.io/project/pedagogy/</link>
+      <link>https://www.laurent-brisson.fr/project/pedagogy/</link>
       <pubDate>Fri, 30 Mar 2018 18:04:08 +0200</pubDate>
       
-      <guid>https://laurent-brisson.github.io/project/pedagogy/</guid>
+      <guid>https://www.laurent-brisson.fr/project/pedagogy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Information Dissemination</title>
-      <link>https://laurent-brisson.github.io/project/information-dissemination/</link>
+      <link>https://www.laurent-brisson.fr/project/information-dissemination/</link>
       <pubDate>Fri, 30 Mar 2018 17:22:00 +0200</pubDate>
       
-      <guid>https://laurent-brisson.github.io/project/information-dissemination/</guid>
+      <guid>https://www.laurent-brisson.fr/project/information-dissemination/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pluralisme de l&#39;information en ligne (ANR PIL)</title>
-      <link>https://laurent-brisson.github.io/project/anr-pil/</link>
+      <link>https://www.laurent-brisson.fr/project/anr-pil/</link>
       <pubDate>Fri, 30 Mar 2018 16:33:05 +0200</pubDate>
       
-      <guid>https://laurent-brisson.github.io/project/anr-pil/</guid>
+      <guid>https://www.laurent-brisson.fr/project/anr-pil/</guid>
       <description></description>
     </item>
     

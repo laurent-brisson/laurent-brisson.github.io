@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academic Page on Academic Page</title>
-    <link>https://laurent-brisson.github.io/</link>
+    <link>https://www.laurent-brisson.fr/</link>
     <description>Recent content in Academic Page on Academic Page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-en</language>
@@ -12,64 +12,64 @@
     
     <item>
       <title>Immersive Visualisation</title>
-      <link>https://laurent-brisson.github.io/project/immersive-visualisation/</link>
+      <link>https://www.laurent-brisson.fr/project/immersive-visualisation/</link>
       <pubDate>Fri, 30 Mar 2018 18:26:13 +0200</pubDate>
       
-      <guid>https://laurent-brisson.github.io/project/immersive-visualisation/</guid>
+      <guid>https://www.laurent-brisson.fr/project/immersive-visualisation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pedagogy</title>
-      <link>https://laurent-brisson.github.io/project/pedagogy/</link>
+      <link>https://www.laurent-brisson.fr/project/pedagogy/</link>
       <pubDate>Fri, 30 Mar 2018 18:04:08 +0200</pubDate>
       
-      <guid>https://laurent-brisson.github.io/project/pedagogy/</guid>
+      <guid>https://www.laurent-brisson.fr/project/pedagogy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Information Dissemination</title>
-      <link>https://laurent-brisson.github.io/project/information-dissemination/</link>
+      <link>https://www.laurent-brisson.fr/project/information-dissemination/</link>
       <pubDate>Fri, 30 Mar 2018 17:22:00 +0200</pubDate>
       
-      <guid>https://laurent-brisson.github.io/project/information-dissemination/</guid>
+      <guid>https://www.laurent-brisson.fr/project/information-dissemination/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pluralisme de l&#39;information en ligne (ANR PIL)</title>
-      <link>https://laurent-brisson.github.io/project/anr-pil/</link>
+      <link>https://www.laurent-brisson.fr/project/anr-pil/</link>
       <pubDate>Fri, 30 Mar 2018 16:33:05 +0200</pubDate>
       
-      <guid>https://laurent-brisson.github.io/project/anr-pil/</guid>
+      <guid>https://www.laurent-brisson.fr/project/anr-pil/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Visualisation Immersive de Graphes en 3D pour explorer des graphes de communautés</title>
-      <link>https://laurent-brisson.github.io/publication/2018-visualisation-immersive-graphe/</link>
+      <link>https://www.laurent-brisson.fr/publication/2018-visualisation-immersive-graphe/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://laurent-brisson.github.io/publication/2018-visualisation-immersive-graphe/</guid>
+      <guid>https://www.laurent-brisson.fr/publication/2018-visualisation-immersive-graphe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Information Dissemination in scale-free networks: Profusion versus Scarcity</title>
-      <link>https://laurent-brisson.github.io/publication/2017-information-dissemination/</link>
+      <link>https://www.laurent-brisson.fr/publication/2017-information-dissemination/</link>
       <pubDate>Wed, 29 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://laurent-brisson.github.io/publication/2017-information-dissemination/</guid>
+      <guid>https://www.laurent-brisson.fr/publication/2017-information-dissemination/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Le jeu de rôle dans l&#39;enseignement supérieur pour développer l&#39;autonomie et la motivation des étudiants</title>
-      <link>https://laurent-brisson.github.io/publication/2017-jeu-de-role-autonomie-motivation/</link>
+      <link>https://www.laurent-brisson.fr/publication/2017-jeu-de-role-autonomie-motivation/</link>
       <pubDate>Tue, 13 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://laurent-brisson.github.io/publication/2017-jeu-de-role-autonomie-motivation/</guid>
+      <guid>https://www.laurent-brisson.fr/publication/2017-jeu-de-role-autonomie-motivation/</guid>
       <description>
 
 &lt;h3 id=&#34;téléchargements&#34;&gt;Téléchargements&lt;/h3&gt;
@@ -83,20 +83,20 @@
     
     <item>
       <title>Example Talk</title>
-      <link>https://laurent-brisson.github.io/talk/example-talk/</link>
+      <link>https://www.laurent-brisson.fr/talk/example-talk/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
       
-      <guid>https://laurent-brisson.github.io/talk/example-talk/</guid>
+      <guid>https://www.laurent-brisson.fr/talk/example-talk/</guid>
       <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Academic: the website designer for Hugo</title>
-      <link>https://laurent-brisson.github.io/post/getting-started/</link>
+      <link>https://www.laurent-brisson.fr/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>https://laurent-brisson.github.io/post/getting-started/</guid>
+      <guid>https://www.laurent-brisson.fr/post/getting-started/</guid>
       <description>
 
 &lt;p&gt;&lt;strong&gt;Academic&lt;/strong&gt; is a framework to help you create a beautiful website quickly. Perfect for personal sites, blogs, or business/project sites. &lt;a href=&#34;https://themes.gohugo.io/theme/academic/&#34; target=&#34;_blank&#34;&gt;Check out the latest demo&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes. Then head on over to the &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Quick Start guide&lt;/a&gt; or take a look at the &lt;a href=&#34;https://sourcethemes.com/academic/updates/&#34; target=&#34;_blank&#34;&gt;Release Notes&lt;/a&gt;.&lt;/p&gt;
@@ -281,28 +281,28 @@ git submodule update --init --recursive
     
     <item>
       <title>Rumor Spreading Modeling: Profusion versus Scarcity</title>
-      <link>https://laurent-brisson.github.io/publication/2015-rumor-spreading/</link>
+      <link>https://www.laurent-brisson.fr/publication/2015-rumor-spreading/</link>
       <pubDate>Tue, 25 Aug 2015 00:00:00 +0200</pubDate>
       
-      <guid>https://laurent-brisson.github.io/publication/2015-rumor-spreading/</guid>
+      <guid>https://www.laurent-brisson.fr/publication/2015-rumor-spreading/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gestion de groupes multilingues dans un enseignement scientifique</title>
-      <link>https://laurent-brisson.github.io/publication/2015-groupes-multilingues/</link>
+      <link>https://www.laurent-brisson.fr/publication/2015-groupes-multilingues/</link>
       <pubDate>Wed, 17 Jun 2015 00:00:00 +0200</pubDate>
       
-      <guid>https://laurent-brisson.github.io/publication/2015-groupes-multilingues/</guid>
+      <guid>https://www.laurent-brisson.fr/publication/2015-groupes-multilingues/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Motivation, autonomie et évaluation : un retour d&#39;expérience en école d&#39;ingénieur</title>
-      <link>https://laurent-brisson.github.io/publication/2015-motivation-autonomie-evaluation/</link>
+      <link>https://www.laurent-brisson.fr/publication/2015-motivation-autonomie-evaluation/</link>
       <pubDate>Wed, 17 Jun 2015 00:00:00 +0200</pubDate>
       
-      <guid>https://laurent-brisson.github.io/publication/2015-motivation-autonomie-evaluation/</guid>
+      <guid>https://www.laurent-brisson.fr/publication/2015-motivation-autonomie-evaluation/</guid>
       <description>
 
 &lt;p&gt;Telecom Bretagne, école d&amp;rsquo;ingénieur française, se caractérise par une diversification de son recrutement (fort apport d&amp;rsquo;étudiants étrangers) et une culture de l&amp;rsquo;apprentissage actif tout au long du cursus. Un défi, pour les acteurs de la formation (direction et enseignants-chercheurs), est d&amp;rsquo;être en mesure de dispenser une formation de qualité, adaptée aux différents profils d&amp;rsquo;étudiants qui se différentient tant au niveau de leur formation préalable que de leur motivation et de leur autonomie.&lt;/p&gt;
@@ -322,28 +322,28 @@ git submodule update --init --recursive
     
     <item>
       <title>Opinion mining on experience feedback: A case study on smarphones reviews</title>
-      <link>https://laurent-brisson.github.io/publication/2015-opinion-mining-experience-feedback/</link>
+      <link>https://www.laurent-brisson.fr/publication/2015-opinion-mining-experience-feedback/</link>
       <pubDate>Wed, 13 May 2015 00:00:00 +0200</pubDate>
       
-      <guid>https://laurent-brisson.github.io/publication/2015-opinion-mining-experience-feedback/</guid>
+      <guid>https://www.laurent-brisson.fr/publication/2015-opinion-mining-experience-feedback/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Nearest Neighbor Approach to Build a Readable Risk Score for Breast Cancer</title>
-      <link>https://laurent-brisson.github.io/publication/2015-breast-cancer-risk-score/</link>
+      <link>https://www.laurent-brisson.fr/publication/2015-breast-cancer-risk-score/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
       
-      <guid>https://laurent-brisson.github.io/publication/2015-breast-cancer-risk-score/</guid>
+      <guid>https://www.laurent-brisson.fr/publication/2015-breast-cancer-risk-score/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Challenges to building a platform for a breast cancer risk score</title>
-      <link>https://laurent-brisson.github.io/publication/2012-platform-breast-cancer/</link>
+      <link>https://www.laurent-brisson.fr/publication/2012-platform-breast-cancer/</link>
       <pubDate>Wed, 16 May 2012 00:00:00 +0200</pubDate>
       
-      <guid>https://laurent-brisson.github.io/publication/2012-platform-breast-cancer/</guid>
+      <guid>https://www.laurent-brisson.fr/publication/2012-platform-breast-cancer/</guid>
       <description></description>
     </item>
     
