@@ -2,202 +2,202 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Academic Page</title>
-    <link>https://www.laurent-brisson.fr/publication/</link>
+    <link>http://www.laurent-brisson.fr/publication/</link>
     <description>Recent content in Publications on Academic Page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-en</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.laurent-brisson.fr/publication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.laurent-brisson.fr/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Visualisation Immersive de Graphes en 3D pour explorer des graphes de communautés</title>
-      <link>https://www.laurent-brisson.fr/publication/2018-visualisation-immersive-graphe/</link>
+      <link>http://www.laurent-brisson.fr/publication/2018-visualisation-immersive-graphe/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://www.laurent-brisson.fr/publication/2018-visualisation-immersive-graphe/</guid>
+      <guid>http://www.laurent-brisson.fr/publication/2018-visualisation-immersive-graphe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Information Dissemination in scale-free networks: Profusion versus Scarcity</title>
-      <link>https://www.laurent-brisson.fr/publication/2017-information-dissemination/</link>
+      <link>http://www.laurent-brisson.fr/publication/2017-information-dissemination/</link>
       <pubDate>Wed, 29 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://www.laurent-brisson.fr/publication/2017-information-dissemination/</guid>
+      <guid>http://www.laurent-brisson.fr/publication/2017-information-dissemination/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Le jeu de rôle dans l&#39;enseignement supérieur pour développer l&#39;autonomie et la motivation des étudiants</title>
-      <link>https://www.laurent-brisson.fr/publication/2017-jeu-de-role-autonomie-motivation/</link>
+      <link>http://www.laurent-brisson.fr/publication/2017-jeu-de-role-autonomie-motivation/</link>
       <pubDate>Tue, 13 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://www.laurent-brisson.fr/publication/2017-jeu-de-role-autonomie-motivation/</guid>
+      <guid>http://www.laurent-brisson.fr/publication/2017-jeu-de-role-autonomie-motivation/</guid>
       <description> Téléchargements  Les résultats complets du questionnaire Le guide de l&amp;rsquo;enseignant pour la conduite du jeu de rôle.  </description>
     </item>
     
     <item>
       <title>Rumor Spreading Modeling: Profusion versus Scarcity</title>
-      <link>https://www.laurent-brisson.fr/publication/2015-rumor-spreading/</link>
+      <link>http://www.laurent-brisson.fr/publication/2015-rumor-spreading/</link>
       <pubDate>Tue, 25 Aug 2015 00:00:00 +0200</pubDate>
       
-      <guid>https://www.laurent-brisson.fr/publication/2015-rumor-spreading/</guid>
+      <guid>http://www.laurent-brisson.fr/publication/2015-rumor-spreading/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gestion de groupes multilingues dans un enseignement scientifique</title>
-      <link>https://www.laurent-brisson.fr/publication/2015-groupes-multilingues/</link>
+      <link>http://www.laurent-brisson.fr/publication/2015-groupes-multilingues/</link>
       <pubDate>Wed, 17 Jun 2015 00:00:00 +0200</pubDate>
       
-      <guid>https://www.laurent-brisson.fr/publication/2015-groupes-multilingues/</guid>
+      <guid>http://www.laurent-brisson.fr/publication/2015-groupes-multilingues/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Motivation, autonomie et évaluation : un retour d&#39;expérience en école d&#39;ingénieur</title>
-      <link>https://www.laurent-brisson.fr/publication/2015-motivation-autonomie-evaluation/</link>
+      <link>http://www.laurent-brisson.fr/publication/2015-motivation-autonomie-evaluation/</link>
       <pubDate>Wed, 17 Jun 2015 00:00:00 +0200</pubDate>
       
-      <guid>https://www.laurent-brisson.fr/publication/2015-motivation-autonomie-evaluation/</guid>
+      <guid>http://www.laurent-brisson.fr/publication/2015-motivation-autonomie-evaluation/</guid>
       <description>Telecom Bretagne, école d&amp;rsquo;ingénieur française, se caractérise par une diversification de son recrutement (fort apport d&amp;rsquo;étudiants étrangers) et une culture de l&amp;rsquo;apprentissage actif tout au long du cursus. Un défi, pour les acteurs de la formation (direction et enseignants-chercheurs), est d&amp;rsquo;être en mesure de dispenser une formation de qualité, adaptée aux différents profils d&amp;rsquo;étudiants qui se différentient tant au niveau de leur formation préalable que de leur motivation et de leur autonomie.</description>
     </item>
     
     <item>
       <title>Opinion mining on experience feedback: A case study on smarphones reviews</title>
-      <link>https://www.laurent-brisson.fr/publication/2015-opinion-mining-experience-feedback/</link>
+      <link>http://www.laurent-brisson.fr/publication/2015-opinion-mining-experience-feedback/</link>
       <pubDate>Wed, 13 May 2015 00:00:00 +0200</pubDate>
       
-      <guid>https://www.laurent-brisson.fr/publication/2015-opinion-mining-experience-feedback/</guid>
+      <guid>http://www.laurent-brisson.fr/publication/2015-opinion-mining-experience-feedback/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Nearest Neighbor Approach to Build a Readable Risk Score for Breast Cancer</title>
-      <link>https://www.laurent-brisson.fr/publication/2015-breast-cancer-risk-score/</link>
+      <link>http://www.laurent-brisson.fr/publication/2015-breast-cancer-risk-score/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
       
-      <guid>https://www.laurent-brisson.fr/publication/2015-breast-cancer-risk-score/</guid>
+      <guid>http://www.laurent-brisson.fr/publication/2015-breast-cancer-risk-score/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Challenges to building a platform for a breast cancer risk score</title>
-      <link>https://www.laurent-brisson.fr/publication/2012-platform-breast-cancer/</link>
+      <link>http://www.laurent-brisson.fr/publication/2012-platform-breast-cancer/</link>
       <pubDate>Wed, 16 May 2012 00:00:00 +0200</pubDate>
       
-      <guid>https://www.laurent-brisson.fr/publication/2012-platform-breast-cancer/</guid>
+      <guid>http://www.laurent-brisson.fr/publication/2012-platform-breast-cancer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Breast cancer risk score: a data mining approach to improve readability</title>
-      <link>https://www.laurent-brisson.fr/publication/2011-breast-cancer-approach-improve-readability/</link>
+      <link>http://www.laurent-brisson.fr/publication/2011-breast-cancer-approach-improve-readability/</link>
       <pubDate>Mon, 18 Jul 2011 00:00:00 +0200</pubDate>
       
-      <guid>https://www.laurent-brisson.fr/publication/2011-breast-cancer-approach-improve-readability/</guid>
+      <guid>http://www.laurent-brisson.fr/publication/2011-breast-cancer-approach-improve-readability/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Etudiants et enseignants face à l&#39;approche par compétences</title>
-      <link>https://www.laurent-brisson.fr/publication/2011-approche-competence/</link>
+      <link>http://www.laurent-brisson.fr/publication/2011-approche-competence/</link>
       <pubDate>Wed, 08 Jun 2011 00:00:00 +0200</pubDate>
       
-      <guid>https://www.laurent-brisson.fr/publication/2011-approche-competence/</guid>
+      <guid>http://www.laurent-brisson.fr/publication/2011-approche-competence/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Variable optimization for flood prediction</title>
-      <link>https://www.laurent-brisson.fr/publication/2011-variable-optimization-flood-prediction/</link>
+      <link>http://www.laurent-brisson.fr/publication/2011-variable-optimization-flood-prediction/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
       
-      <guid>https://www.laurent-brisson.fr/publication/2011-variable-optimization-flood-prediction/</guid>
+      <guid>http://www.laurent-brisson.fr/publication/2011-variable-optimization-flood-prediction/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How to Semantically Enhance a Data Mining Process?</title>
-      <link>https://www.laurent-brisson.fr/publication/2009-semantically-enhance-data-mining-process/</link>
+      <link>http://www.laurent-brisson.fr/publication/2009-semantically-enhance-data-mining-process/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
       
-      <guid>https://www.laurent-brisson.fr/publication/2009-semantically-enhance-data-mining-process/</guid>
+      <guid>http://www.laurent-brisson.fr/publication/2009-semantically-enhance-data-mining-process/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An ontology driven data mining process</title>
-      <link>https://www.laurent-brisson.fr/publication/2008-ontology-driven-data-mining-process/</link>
+      <link>http://www.laurent-brisson.fr/publication/2008-ontology-driven-data-mining-process/</link>
       <pubDate>Thu, 12 Jun 2008 00:00:00 +0200</pubDate>
       
-      <guid>https://www.laurent-brisson.fr/publication/2008-ontology-driven-data-mining-process/</guid>
+      <guid>http://www.laurent-brisson.fr/publication/2008-ontology-driven-data-mining-process/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards a human eye behavior model by applying Data Mining Techniques on Gaze Information from IEC</title>
-      <link>https://www.laurent-brisson.fr/publication/2008-human-eye-behavior-model/</link>
+      <link>http://www.laurent-brisson.fr/publication/2008-human-eye-behavior-model/</link>
       <pubDate>Mon, 09 Jun 2008 00:00:00 +0200</pubDate>
       
-      <guid>https://www.laurent-brisson.fr/publication/2008-human-eye-behavior-model/</guid>
+      <guid>http://www.laurent-brisson.fr/publication/2008-human-eye-behavior-model/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mining gene expression data using domain knowledge</title>
-      <link>https://www.laurent-brisson.fr/publication/2009-gene-expression-domain-knowledge/</link>
+      <link>http://www.laurent-brisson.fr/publication/2009-gene-expression-domain-knowledge/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
       
-      <guid>https://www.laurent-brisson.fr/publication/2009-gene-expression-domain-knowledge/</guid>
+      <guid>http://www.laurent-brisson.fr/publication/2009-gene-expression-domain-knowledge/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Intégration de connaissances expertes dans le processus de fouille de données pour l&#39;extraction d&#39;informations pertinentes</title>
-      <link>https://www.laurent-brisson.fr/publication/2006-integration-connaissances-processus/</link>
+      <link>http://www.laurent-brisson.fr/publication/2006-integration-connaissances-processus/</link>
       <pubDate>Wed, 13 Dec 2006 00:00:00 +0100</pubDate>
       
-      <guid>https://www.laurent-brisson.fr/publication/2006-integration-connaissances-processus/</guid>
+      <guid>http://www.laurent-brisson.fr/publication/2006-integration-connaissances-processus/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ontologie et base de connaissances pour le pré-traitement et post-traitement en fouille de données</title>
-      <link>https://www.laurent-brisson.fr/publication/2006-ontologie-fouille-donnees/</link>
+      <link>http://www.laurent-brisson.fr/publication/2006-ontologie-fouille-donnees/</link>
       <pubDate>Tue, 17 Jan 2006 00:00:00 +0100</pubDate>
       
-      <guid>https://www.laurent-brisson.fr/publication/2006-ontologie-fouille-donnees/</guid>
+      <guid>http://www.laurent-brisson.fr/publication/2006-ontologie-fouille-donnees/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Improving the knowledge discovery process using ontologies</title>
-      <link>https://www.laurent-brisson.fr/publication/2005-improving-knowledge-discovery-process/</link>
+      <link>http://www.laurent-brisson.fr/publication/2005-improving-knowledge-discovery-process/</link>
       <pubDate>Sun, 27 Nov 2005 00:00:00 +0100</pubDate>
       
-      <guid>https://www.laurent-brisson.fr/publication/2005-improving-knowledge-discovery-process/</guid>
+      <guid>http://www.laurent-brisson.fr/publication/2005-improving-knowledge-discovery-process/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HASAR: mining sequential association rules for atherosclerosis risk factor analysis</title>
-      <link>https://www.laurent-brisson.fr/publication/2004-hasar-association-rule/</link>
+      <link>http://www.laurent-brisson.fr/publication/2004-hasar-association-rule/</link>
       <pubDate>Mon, 20 Sep 2004 00:00:00 +0200</pubDate>
       
-      <guid>https://www.laurent-brisson.fr/publication/2004-hasar-association-rule/</guid>
+      <guid>http://www.laurent-brisson.fr/publication/2004-hasar-association-rule/</guid>
       <description></description>
     </item>
     
     <item>
       <title>KTA: A framework for integrating expert knowledge and experiment memory in transcriptome analysis</title>
-      <link>https://www.laurent-brisson.fr/publication/2004-kta-framework-knowledge/</link>
+      <link>http://www.laurent-brisson.fr/publication/2004-kta-framework-knowledge/</link>
       <pubDate>Mon, 20 Sep 2004 00:00:00 +0200</pubDate>
       
-      <guid>https://www.laurent-brisson.fr/publication/2004-kta-framework-knowledge/</guid>
+      <guid>http://www.laurent-brisson.fr/publication/2004-kta-framework-knowledge/</guid>
       <description></description>
     </item>
     
