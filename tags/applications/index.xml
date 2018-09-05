@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Applications on Academic Page</title>
+    <link>http://www.laurent-brisson.fr/tags/applications/</link>
+    <description>Recent content in Applications on Academic Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-en</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 05 Sep 2018 14:11:02 +0200</lastBuildDate>
+    
+	<atom:link href="http://www.laurent-brisson.fr/tags/applications/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Breast Cancer Risk Assessment</title>
+      <link>http://www.laurent-brisson.fr/project/breast-cancer-risk-assessment/</link>
+      <pubDate>Wed, 05 Sep 2018 14:11:02 +0200</pubDate>
+      
+      <guid>http://www.laurent-brisson.fr/project/breast-cancer-risk-assessment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pluralisme de l&#39;information en ligne (ANR PIL)</title>
+      <link>http://www.laurent-brisson.fr/project/anr-pil/</link>
+      <pubDate>Fri, 30 Mar 2018 16:33:05 +0200</pubDate>
+      
+      <guid>http://www.laurent-brisson.fr/project/anr-pil/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

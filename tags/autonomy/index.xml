@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Autonomy on Academic Page</title>
+    <link>http://www.laurent-brisson.fr/tags/autonomy/</link>
+    <description>Recent content in Autonomy on Academic Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-en</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 30 Mar 2018 18:04:08 +0200</lastBuildDate>
+    
+	<atom:link href="http://www.laurent-brisson.fr/tags/autonomy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pedagogy</title>
+      <link>http://www.laurent-brisson.fr/project/pedagogy/</link>
+      <pubDate>Fri, 30 Mar 2018 18:04:08 +0200</pubDate>
+      
+      <guid>http://www.laurent-brisson.fr/project/pedagogy/</guid>
+      <description>Discover some innovations in pedagogy in order to act on students&amp;rsquo; autonomy and motivation through different activities such as role-playing or group MCQ.</description>
+    </item>
+    
+    <item>
+      <title>Le jeu de rôle dans l&#39;enseignement supérieur pour développer l&#39;autonomie et la motivation des étudiants</title>
+      <link>http://www.laurent-brisson.fr/publication/2017-jeu-de-role-autonomie-motivation/</link>
+      <pubDate>Tue, 13 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.laurent-brisson.fr/publication/2017-jeu-de-role-autonomie-motivation/</guid>
+      <description> Téléchargements  Les résultats complets du questionnaire Le guide de l&amp;rsquo;enseignant pour la conduite du jeu de rôle.  </description>
+    </item>
+    
+  </channel>
+</rss>

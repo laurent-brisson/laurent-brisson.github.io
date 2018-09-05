@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Visualisation on Academic Page</title>
+    <link>http://www.laurent-brisson.fr/tags/visualisation/</link>
+    <description>Recent content in Visualisation on Academic Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-en</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 30 Mar 2018 18:26:13 +0200</lastBuildDate>
+    
+	<atom:link href="http://www.laurent-brisson.fr/tags/visualisation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Immersive Visualisation</title>
+      <link>http://www.laurent-brisson.fr/project/immersive-visualisation/</link>
+      <pubDate>Fri, 30 Mar 2018 18:26:13 +0200</pubDate>
+      
+      <guid>http://www.laurent-brisson.fr/project/immersive-visualisation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visualisation Immersive de Graphes en 3D pour explorer des graphes de communautés</title>
+      <link>http://www.laurent-brisson.fr/publication/2018-visualisation-immersive-graphe/</link>
+      <pubDate>Mon, 22 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>http://www.laurent-brisson.fr/publication/2018-visualisation-immersive-graphe/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

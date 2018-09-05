@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on Academic Page</title>
+    <link>http://www.laurent-brisson.fr/publication_types/1/</link>
+    <description>Recent content in 1 on Academic Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-en</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.laurent-brisson.fr/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Understanding Learner&#39;s Drop-out in MOOCs</title>
+      <link>http://www.laurent-brisson.fr/publication/2018-understanding-learner-dropout-mooc/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.laurent-brisson.fr/publication/2018-understanding-learner-dropout-mooc/</guid>
+      <description>By clicking on the code link above you can find the parameters selected for each model after hyper-parameter tuning.</description>
+    </item>
+    
+    <item>
+      <title>Information Dissemination in scale-free networks: Profusion versus Scarcity</title>
+      <link>http://www.laurent-brisson.fr/publication/2017-information-dissemination/</link>
+      <pubDate>Wed, 29 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.laurent-brisson.fr/publication/2017-information-dissemination/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rumor Spreading Modeling: Profusion versus Scarcity</title>
+      <link>http://www.laurent-brisson.fr/publication/2015-rumor-spreading/</link>
+      <pubDate>Tue, 25 Aug 2015 00:00:00 +0200</pubDate>
+      
+      <guid>http://www.laurent-brisson.fr/publication/2015-rumor-spreading/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Opinion mining on experience feedback: A case study on smarphones reviews</title>
+      <link>http://www.laurent-brisson.fr/publication/2015-opinion-mining-experience-feedback/</link>
+      <pubDate>Wed, 13 May 2015 00:00:00 +0200</pubDate>
+      
+      <guid>http://www.laurent-brisson.fr/publication/2015-opinion-mining-experience-feedback/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Challenges to building a platform for a breast cancer risk score</title>
+      <link>http://www.laurent-brisson.fr/publication/2012-platform-breast-cancer/</link>
+      <pubDate>Wed, 16 May 2012 00:00:00 +0200</pubDate>
+      
+      <guid>http://www.laurent-brisson.fr/publication/2012-platform-breast-cancer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Breast cancer risk score: a data mining approach to improve readability</title>
+      <link>http://www.laurent-brisson.fr/publication/2011-breast-cancer-approach-improve-readability/</link>
+      <pubDate>Mon, 18 Jul 2011 00:00:00 +0200</pubDate>
+      
+      <guid>http://www.laurent-brisson.fr/publication/2011-breast-cancer-approach-improve-readability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An ontology driven data mining process</title>
+      <link>http://www.laurent-brisson.fr/publication/2008-ontology-driven-data-mining-process/</link>
+      <pubDate>Thu, 12 Jun 2008 00:00:00 +0200</pubDate>
+      
+      <guid>http://www.laurent-brisson.fr/publication/2008-ontology-driven-data-mining-process/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards a human eye behavior model by applying Data Mining Techniques on Gaze Information from IEC</title>
+      <link>http://www.laurent-brisson.fr/publication/2008-human-eye-behavior-model/</link>
+      <pubDate>Mon, 09 Jun 2008 00:00:00 +0200</pubDate>
+      
+      <guid>http://www.laurent-brisson.fr/publication/2008-human-eye-behavior-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ontologie et base de connaissances pour le pré-traitement et post-traitement en fouille de données</title>
+      <link>http://www.laurent-brisson.fr/publication/2006-ontologie-fouille-donnees/</link>
+      <pubDate>Tue, 17 Jan 2006 00:00:00 +0100</pubDate>
+      
+      <guid>http://www.laurent-brisson.fr/publication/2006-ontologie-fouille-donnees/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

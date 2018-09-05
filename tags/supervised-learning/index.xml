@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Supervised-learning on Academic Page</title>
+    <link>http://www.laurent-brisson.fr/tags/supervised-learning/</link>
+    <description>Recent content in Supervised-learning on Academic Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-en</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.laurent-brisson.fr/tags/supervised-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Understanding Learner&#39;s Drop-out in MOOCs</title>
+      <link>http://www.laurent-brisson.fr/publication/2018-understanding-learner-dropout-mooc/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.laurent-brisson.fr/publication/2018-understanding-learner-dropout-mooc/</guid>
+      <description>By clicking on the code link above you can find the parameters selected for each model after hyper-parameter tuning.</description>
+    </item>
+    
+  </channel>
+</rss>

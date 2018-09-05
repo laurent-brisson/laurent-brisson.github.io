@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 on Academic Page</title>
+    <link>http://www.laurent-brisson.fr/publication_types/3/</link>
+    <description>Recent content in 3 on Academic Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-en</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 13 Dec 2006 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="http://www.laurent-brisson.fr/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Intégration de connaissances expertes dans le processus de fouille de données pour l&#39;extraction d&#39;informations pertinentes</title>
+      <link>http://www.laurent-brisson.fr/publication/2006-integration-connaissances-processus/</link>
+      <pubDate>Wed, 13 Dec 2006 00:00:00 +0100</pubDate>
+      
+      <guid>http://www.laurent-brisson.fr/publication/2006-integration-connaissances-processus/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

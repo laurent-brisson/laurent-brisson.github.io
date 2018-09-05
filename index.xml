@@ -11,6 +11,34 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Learning Analytics</title>
+      <link>http://www.laurent-brisson.fr/project/learning-analytics/</link>
+      <pubDate>Wed, 05 Sep 2018 14:19:39 +0200</pubDate>
+      
+      <guid>http://www.laurent-brisson.fr/project/learning-analytics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Breast Cancer Risk Assessment</title>
+      <link>http://www.laurent-brisson.fr/project/breast-cancer-risk-assessment/</link>
+      <pubDate>Wed, 05 Sep 2018 14:11:02 +0200</pubDate>
+      
+      <guid>http://www.laurent-brisson.fr/project/breast-cancer-risk-assessment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding Learner&#39;s Drop-out in MOOCs</title>
+      <link>http://www.laurent-brisson.fr/publication/2018-understanding-learner-dropout-mooc/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.laurent-brisson.fr/publication/2018-understanding-learner-dropout-mooc/</guid>
+      <description>&lt;p&gt;By clicking on the &lt;code&gt;code&lt;/code&gt; link above you can find the parameters selected for each model after hyper-parameter tuning.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Immersive Visualisation</title>
       <link>http://www.laurent-brisson.fr/project/immersive-visualisation/</link>
       <pubDate>Fri, 30 Mar 2018 18:26:13 +0200</pubDate>
@@ -320,33 +348,6 @@ git submodule update --init --recursive
 
 &lt;p&gt;[1] &lt;em&gt;Attention ce document est donné dans sa forme brute. Si la plupart des étudiants ont répondus aux questions à choix multiples, les réponses libres ne sont pas forcément l&amp;rsquo;expression de la majorité des étudiants. Ainsi, s&amp;rsquo;il est important de prendre en compte les opinions exprimées par les étudiants, elles ne constituent pas toujours une évaluation pertinente du dispositif.&lt;/em&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Opinion mining on experience feedback: A case study on smarphones reviews</title>
-      <link>http://www.laurent-brisson.fr/publication/2015-opinion-mining-experience-feedback/</link>
-      <pubDate>Wed, 13 May 2015 00:00:00 +0200</pubDate>
-      
-      <guid>http://www.laurent-brisson.fr/publication/2015-opinion-mining-experience-feedback/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Nearest Neighbor Approach to Build a Readable Risk Score for Breast Cancer</title>
-      <link>http://www.laurent-brisson.fr/publication/2015-breast-cancer-risk-score/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
-      
-      <guid>http://www.laurent-brisson.fr/publication/2015-breast-cancer-risk-score/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Challenges to building a platform for a breast cancer risk score</title>
-      <link>http://www.laurent-brisson.fr/publication/2012-platform-breast-cancer/</link>
-      <pubDate>Wed, 16 May 2012 00:00:00 +0200</pubDate>
-      
-      <guid>http://www.laurent-brisson.fr/publication/2012-platform-breast-cancer/</guid>
-      <description></description>
     </item>
     
   </channel>

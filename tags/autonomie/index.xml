@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Autonomie on Academic Page</title>
+    <link>http://www.laurent-brisson.fr/tags/autonomie/</link>
+    <description>Recent content in Autonomie on Academic Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-en</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 17 Jun 2015 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="http://www.laurent-brisson.fr/tags/autonomie/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Motivation, autonomie et évaluation : un retour d&#39;expérience en école d&#39;ingénieur</title>
+      <link>http://www.laurent-brisson.fr/publication/2015-motivation-autonomie-evaluation/</link>
+      <pubDate>Wed, 17 Jun 2015 00:00:00 +0200</pubDate>
+      
+      <guid>http://www.laurent-brisson.fr/publication/2015-motivation-autonomie-evaluation/</guid>
+      <description>Telecom Bretagne, école d&amp;rsquo;ingénieur française, se caractérise par une diversification de son recrutement (fort apport d&amp;rsquo;étudiants étrangers) et une culture de l&amp;rsquo;apprentissage actif tout au long du cursus. Un défi, pour les acteurs de la formation (direction et enseignants-chercheurs), est d&amp;rsquo;être en mesure de dispenser une formation de qualité, adaptée aux différents profils d&amp;rsquo;étudiants qui se différentient tant au niveau de leur formation préalable que de leur motivation et de leur autonomie.</description>
+    </item>
+    
+  </channel>
+</rss>

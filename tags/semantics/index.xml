@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Semantics on Academic Page</title>
+    <link>http://www.laurent-brisson.fr/tags/semantics/</link>
+    <description>Recent content in Semantics on Academic Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-en</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="http://www.laurent-brisson.fr/tags/semantics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to Semantically Enhance a Data Mining Process?</title>
+      <link>http://www.laurent-brisson.fr/publication/2009-semantically-enhance-data-mining-process/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
+      
+      <guid>http://www.laurent-brisson.fr/publication/2009-semantically-enhance-data-mining-process/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

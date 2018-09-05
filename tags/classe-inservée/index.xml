@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Classe inservée on Academic Page</title>
+    <link>http://www.laurent-brisson.fr/tags/classe-inserv%C3%A9e/</link>
+    <description>Recent content in Classe inservée on Academic Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-en</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 17 Jun 2015 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="http://www.laurent-brisson.fr/tags/classe-inserv%C3%A9e/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gestion de groupes multilingues dans un enseignement scientifique</title>
+      <link>http://www.laurent-brisson.fr/publication/2015-groupes-multilingues/</link>
+      <pubDate>Wed, 17 Jun 2015 00:00:00 +0200</pubDate>
+      
+      <guid>http://www.laurent-brisson.fr/publication/2015-groupes-multilingues/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

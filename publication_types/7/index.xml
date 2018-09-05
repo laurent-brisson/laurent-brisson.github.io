@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>7 on Academic Page</title>
+    <link>http://www.laurent-brisson.fr/publication_types/7/</link>
+    <description>Recent content in 7 on Academic Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-en</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 22 Jan 2018 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="http://www.laurent-brisson.fr/publication_types/7/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Visualisation Immersive de Graphes en 3D pour explorer des graphes de communautés</title>
+      <link>http://www.laurent-brisson.fr/publication/2018-visualisation-immersive-graphe/</link>
+      <pubDate>Mon, 22 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>http://www.laurent-brisson.fr/publication/2018-visualisation-immersive-graphe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Le jeu de rôle dans l&#39;enseignement supérieur pour développer l&#39;autonomie et la motivation des étudiants</title>
+      <link>http://www.laurent-brisson.fr/publication/2017-jeu-de-role-autonomie-motivation/</link>
+      <pubDate>Tue, 13 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.laurent-brisson.fr/publication/2017-jeu-de-role-autonomie-motivation/</guid>
+      <description> Téléchargements  Les résultats complets du questionnaire Le guide de l&amp;rsquo;enseignant pour la conduite du jeu de rôle.  </description>
+    </item>
+    
+    <item>
+      <title>Gestion de groupes multilingues dans un enseignement scientifique</title>
+      <link>http://www.laurent-brisson.fr/publication/2015-groupes-multilingues/</link>
+      <pubDate>Wed, 17 Jun 2015 00:00:00 +0200</pubDate>
+      
+      <guid>http://www.laurent-brisson.fr/publication/2015-groupes-multilingues/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Motivation, autonomie et évaluation : un retour d&#39;expérience en école d&#39;ingénieur</title>
+      <link>http://www.laurent-brisson.fr/publication/2015-motivation-autonomie-evaluation/</link>
+      <pubDate>Wed, 17 Jun 2015 00:00:00 +0200</pubDate>
+      
+      <guid>http://www.laurent-brisson.fr/publication/2015-motivation-autonomie-evaluation/</guid>
+      <description>Telecom Bretagne, école d&amp;rsquo;ingénieur française, se caractérise par une diversification de son recrutement (fort apport d&amp;rsquo;étudiants étrangers) et une culture de l&amp;rsquo;apprentissage actif tout au long du cursus. Un défi, pour les acteurs de la formation (direction et enseignants-chercheurs), est d&amp;rsquo;être en mesure de dispenser une formation de qualité, adaptée aux différents profils d&amp;rsquo;étudiants qui se différentient tant au niveau de leur formation préalable que de leur motivation et de leur autonomie.</description>
+    </item>
+    
+    <item>
+      <title>Etudiants et enseignants face à l&#39;approche par compétences</title>
+      <link>http://www.laurent-brisson.fr/publication/2011-approche-competence/</link>
+      <pubDate>Wed, 08 Jun 2011 00:00:00 +0200</pubDate>
+      
+      <guid>http://www.laurent-brisson.fr/publication/2011-approche-competence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving the knowledge discovery process using ontologies</title>
+      <link>http://www.laurent-brisson.fr/publication/2005-improving-knowledge-discovery-process/</link>
+      <pubDate>Sun, 27 Nov 2005 00:00:00 +0100</pubDate>
+      
+      <guid>http://www.laurent-brisson.fr/publication/2005-improving-knowledge-discovery-process/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HASAR: mining sequential association rules for atherosclerosis risk factor analysis</title>
+      <link>http://www.laurent-brisson.fr/publication/2004-hasar-association-rule/</link>
+      <pubDate>Mon, 20 Sep 2004 00:00:00 +0200</pubDate>
+      
+      <guid>http://www.laurent-brisson.fr/publication/2004-hasar-association-rule/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KTA: A framework for integrating expert knowledge and experiment memory in transcriptome analysis</title>
+      <link>http://www.laurent-brisson.fr/publication/2004-kta-framework-knowledge/</link>
+      <pubDate>Mon, 20 Sep 2004 00:00:00 +0200</pubDate>
+      
+      <guid>http://www.laurent-brisson.fr/publication/2004-kta-framework-knowledge/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

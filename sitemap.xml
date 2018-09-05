@@ -2,6 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     
+    <url>
+    
+      <loc>http://www.laurent-brisson.fr/project/learning-analytics/</loc>
+      <lastmod>2018-09-05T14:19:39+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://www.laurent-brisson.fr/project/breast-cancer-risk-assessment/</loc>
+      <lastmod>2018-09-05T14:11:02+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://www.laurent-brisson.fr/publication/2018-understanding-learner-dropout-mooc/</loc>
+      <lastmod>2018-09-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
     
     <url>
     
@@ -11,7 +34,6 @@
     
   
     
-    
     <url>
     
       <loc>http://www.laurent-brisson.fr/project/pedagogy/</loc>
@@ -19,7 +41,6 @@
     </url>
     
   
-    
     
     <url>
     
@@ -29,7 +50,6 @@
     
   
     
-    
     <url>
     
       <loc>http://www.laurent-brisson.fr/project/anr-pil/</loc>
@@ -37,7 +57,6 @@
     </url>
     
   
-    
     
     <url>
     
@@ -47,7 +66,6 @@
     
   
     
-    
     <url>
     
       <loc>http://www.laurent-brisson.fr/publication/2017-information-dissemination/</loc>
@@ -55,7 +73,6 @@
     </url>
     
   
-    
     
     <url>
     
@@ -65,7 +82,6 @@
     
   
     
-    
     <url>
     
       <loc>http://www.laurent-brisson.fr/tags/academic/</loc>
@@ -73,7 +89,6 @@
     </url>
     
   
-    
     
     <url>
     
@@ -83,7 +98,6 @@
     
   
     
-    
     <url>
     
       <loc>http://www.laurent-brisson.fr/talk/</loc>
@@ -91,7 +105,6 @@
     </url>
     
   
-    
     
     <url>
     
@@ -101,7 +114,6 @@
     
   
     
-    
     <url>
     
       <loc>http://www.laurent-brisson.fr/post/</loc>
@@ -109,7 +121,6 @@
     </url>
     
   
-    
     
     <url>
     
@@ -119,7 +130,6 @@
     
   
     
-    
     <url>
     
       <loc>http://www.laurent-brisson.fr/publication/2015-rumor-spreading/</loc>
@@ -127,7 +137,6 @@
     </url>
     
   
-    
     
     <url>
     
@@ -137,7 +146,6 @@
     
   
     
-    
     <url>
     
       <loc>http://www.laurent-brisson.fr/publication/2015-motivation-autonomie-evaluation/</loc>
@@ -145,7 +153,6 @@
     </url>
     
   
-    
     
     <url>
     
@@ -155,7 +162,6 @@
     
   
     
-    
     <url>
     
       <loc>http://www.laurent-brisson.fr/publication/2015-breast-cancer-risk-score/</loc>
@@ -163,7 +169,6 @@
     </url>
     
   
-    
     
     <url>
     
@@ -173,7 +178,6 @@
     
   
     
-    
     <url>
     
       <loc>http://www.laurent-brisson.fr/publication/2011-breast-cancer-approach-improve-readability/</loc>
@@ -181,7 +185,6 @@
     </url>
     
   
-    
     
     <url>
     
@@ -191,7 +194,6 @@
     
   
     
-    
     <url>
     
       <loc>http://www.laurent-brisson.fr/publication/2011-variable-optimization-flood-prediction/</loc>
@@ -199,7 +201,6 @@
     </url>
     
   
-    
     
     <url>
     
@@ -209,7 +210,6 @@
     
   
     
-    
     <url>
     
       <loc>http://www.laurent-brisson.fr/publication/2008-ontology-driven-data-mining-process/</loc>
@@ -217,7 +217,6 @@
     </url>
     
   
-    
     
     <url>
     
@@ -227,7 +226,6 @@
     
   
     
-    
     <url>
     
       <loc>http://www.laurent-brisson.fr/publication/2009-gene-expression-domain-knowledge/</loc>
@@ -235,7 +233,6 @@
     </url>
     
   
-    
     
     <url>
     
@@ -245,7 +242,6 @@
     
   
     
-    
     <url>
     
       <loc>http://www.laurent-brisson.fr/publication/2006-ontologie-fouille-donnees/</loc>
@@ -253,7 +249,6 @@
     </url>
     
   
-    
     
     <url>
     
@@ -263,7 +258,6 @@
     
   
     
-    
     <url>
     
       <loc>http://www.laurent-brisson.fr/publication/2004-hasar-association-rule/</loc>
@@ -271,7 +265,6 @@
     </url>
     
   
-    
     
     <url>
     
@@ -281,16 +274,14 @@
     
   
     
-    
     <url>
     
       <loc>http://www.laurent-brisson.fr/publication_types/1/</loc>
-      <lastmod>2017-11-29T00:00:00+00:00</lastmod>
+      <lastmod>2018-09-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
   
-    
     
     <url>
     
@@ -301,7 +292,6 @@
     
   
     
-    
     <url>
     
       <loc>http://www.laurent-brisson.fr/publication_types/3/</loc>
@@ -310,7 +300,6 @@
     </url>
     
   
-    
     
     <url>
     
@@ -321,7 +310,6 @@
     
   
     
-    
     <url>
     
       <loc>http://www.laurent-brisson.fr/publication_types/7/</loc>
@@ -330,7 +318,6 @@
     </url>
     
   
-    
     
     <url>
     
@@ -341,16 +328,14 @@
     
   
     
-    
     <url>
     
       <loc>http://www.laurent-brisson.fr/tags/applications/</loc>
-      <lastmod>2018-03-30T16:33:05+02:00</lastmod>
+      <lastmod>2018-09-05T14:11:02+02:00</lastmod>
       <priority>0</priority>
     </url>
     
   
-    
     
     <url>
     
@@ -361,7 +346,6 @@
     
   
     
-    
     <url>
     
       <loc>http://www.laurent-brisson.fr/tags/association-rule/</loc>
@@ -370,7 +354,6 @@
     </url>
     
   
-    
     
     <url>
     
@@ -381,7 +364,6 @@
     
   
     
-    
     <url>
     
       <loc>http://www.laurent-brisson.fr/tags/autonomy/</loc>
@@ -390,7 +372,6 @@
     </url>
     
   
-    
     
     <url>
     
@@ -401,7 +382,6 @@
     
   
     
-    
     <url>
     
       <loc>http://www.laurent-brisson.fr/categories/</loc>
@@ -409,7 +389,6 @@
     </url>
     
   
-    
     
     <url>
     
@@ -420,7 +399,6 @@
     
   
     
-    
     <url>
     
       <loc>http://www.laurent-brisson.fr/tags/comp%C3%A9tences/</loc>
@@ -429,7 +407,6 @@
     </url>
     
   
-    
     
     <url>
     
@@ -440,7 +417,6 @@
     
   
     
-    
     <url>
     
       <loc>http://www.laurent-brisson.fr/tags/data-mining-process/</loc>
@@ -449,7 +425,6 @@
     </url>
     
   
-    
     
     <url>
     
@@ -460,7 +435,6 @@
     
   
     
-    
     <url>
     
       <loc>http://www.laurent-brisson.fr/tags/floods-prediction/</loc>
@@ -469,7 +443,6 @@
     </url>
     
   
-    
     
     <url>
     
@@ -480,7 +453,6 @@
     
   
     
-    
     <url>
     
       <loc>http://www.laurent-brisson.fr/tags/genetic-algorithm/</loc>
@@ -489,7 +461,6 @@
     </url>
     
   
-    
     
     <url>
     
@@ -500,7 +471,6 @@
     
   
     
-    
     <url>
     
       <loc>http://www.laurent-brisson.fr/tags/human-eye/</loc>
@@ -509,7 +479,6 @@
     </url>
     
   
-    
     
     <url>
     
@@ -520,7 +489,6 @@
     
   
     
-    
     <url>
     
       <loc>http://www.laurent-brisson.fr/tags/knowledge/</loc>
@@ -530,6 +498,14 @@
     
   
     
+    <url>
+    
+      <loc>http://www.laurent-brisson.fr/tags/learning-analytics/</loc>
+      <lastmod>2018-09-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
     
     <url>
     
@@ -540,7 +516,6 @@
     
   
     
-    
     <url>
     
       <loc>http://www.laurent-brisson.fr/tags/ontology/</loc>
@@ -549,7 +524,6 @@
     </url>
     
   
-    
     
     <url>
     
@@ -560,26 +534,23 @@
     
   
     
-    
     <url>
     
       <loc>http://www.laurent-brisson.fr/project/</loc>
-      <lastmod>2018-03-30T18:26:13+02:00</lastmod>
+      <lastmod>2018-09-05T14:19:39+02:00</lastmod>
       <priority>0</priority>
     </url>
     
   
-    
     
     <url>
     
       <loc>http://www.laurent-brisson.fr/publication_types/</loc>
-      <lastmod>2017-11-29T00:00:00+00:00</lastmod>
+      <lastmod>2018-09-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
   
-    
     
     <url>
     
@@ -590,7 +561,6 @@
     
   
     
-    
     <url>
     
       <loc>http://www.laurent-brisson.fr/tags/role-playing-game/</loc>
@@ -599,7 +569,6 @@
     </url>
     
   
-    
     
     <url>
     
@@ -610,7 +579,6 @@
     
   
     
-    
     <url>
     
       <loc>http://www.laurent-brisson.fr/tags/rumor-propagation/</loc>
@@ -619,7 +587,6 @@
     </url>
     
   
-    
     
     <url>
     
@@ -630,7 +597,6 @@
     
   
     
-    
     <url>
     
       <loc>http://www.laurent-brisson.fr/tags/simulation/</loc>
@@ -639,7 +605,6 @@
     </url>
     
   
-    
     
     <url>
     
@@ -650,6 +615,14 @@
     
   
     
+    <url>
+    
+      <loc>http://www.laurent-brisson.fr/tags/supervised-learning/</loc>
+      <lastmod>2018-09-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
     
     <url>
     
@@ -660,7 +633,6 @@
     
   
     
-    
     <url>
     
       <loc>http://www.laurent-brisson.fr/tags/visualisation/</loc>
@@ -669,7 +641,6 @@
     </url>
     
   
-    
     
     <url>
     

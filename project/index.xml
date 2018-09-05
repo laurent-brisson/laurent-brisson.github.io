@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-en</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 30 Mar 2018 18:26:13 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 05 Sep 2018 14:19:39 +0200</lastBuildDate>
     
 	<atom:link href="http://www.laurent-brisson.fr/project/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Learning Analytics</title>
+      <link>http://www.laurent-brisson.fr/project/learning-analytics/</link>
+      <pubDate>Wed, 05 Sep 2018 14:19:39 +0200</pubDate>
+      
+      <guid>http://www.laurent-brisson.fr/project/learning-analytics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Breast Cancer Risk Assessment</title>
+      <link>http://www.laurent-brisson.fr/project/breast-cancer-risk-assessment/</link>
+      <pubDate>Wed, 05 Sep 2018 14:11:02 +0200</pubDate>
+      
+      <guid>http://www.laurent-brisson.fr/project/breast-cancer-risk-assessment/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Immersive Visualisation</title>

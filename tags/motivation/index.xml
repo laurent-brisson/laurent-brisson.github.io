@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Motivation on Academic Page</title>
+    <link>http://www.laurent-brisson.fr/tags/motivation/</link>
+    <description>Recent content in Motivation on Academic Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-en</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 30 Mar 2018 18:04:08 +0200</lastBuildDate>
+    
+	<atom:link href="http://www.laurent-brisson.fr/tags/motivation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pedagogy</title>
+      <link>http://www.laurent-brisson.fr/project/pedagogy/</link>
+      <pubDate>Fri, 30 Mar 2018 18:04:08 +0200</pubDate>
+      
+      <guid>http://www.laurent-brisson.fr/project/pedagogy/</guid>
+      <description>Discover some innovations in pedagogy in order to act on students&amp;rsquo; autonomy and motivation through different activities such as role-playing or group MCQ.</description>
+    </item>
+    
+    <item>
+      <title>Le jeu de rôle dans l&#39;enseignement supérieur pour développer l&#39;autonomie et la motivation des étudiants</title>
+      <link>http://www.laurent-brisson.fr/publication/2017-jeu-de-role-autonomie-motivation/</link>
+      <pubDate>Tue, 13 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.laurent-brisson.fr/publication/2017-jeu-de-role-autonomie-motivation/</guid>
+      <description> Téléchargements  Les résultats complets du questionnaire Le guide de l&amp;rsquo;enseignant pour la conduite du jeu de rôle.  </description>
+    </item>
+    
+    <item>
+      <title>Motivation, autonomie et évaluation : un retour d&#39;expérience en école d&#39;ingénieur</title>
+      <link>http://www.laurent-brisson.fr/publication/2015-motivation-autonomie-evaluation/</link>
+      <pubDate>Wed, 17 Jun 2015 00:00:00 +0200</pubDate>
+      
+      <guid>http://www.laurent-brisson.fr/publication/2015-motivation-autonomie-evaluation/</guid>
+      <description>Telecom Bretagne, école d&amp;rsquo;ingénieur française, se caractérise par une diversification de son recrutement (fort apport d&amp;rsquo;étudiants étrangers) et une culture de l&amp;rsquo;apprentissage actif tout au long du cursus. Un défi, pour les acteurs de la formation (direction et enseignants-chercheurs), est d&amp;rsquo;être en mesure de dispenser une formation de qualité, adaptée aux différents profils d&amp;rsquo;étudiants qui se différentient tant au niveau de leur formation préalable que de leur motivation et de leur autonomie.</description>
+    </item>
+    
+  </channel>
+</rss>

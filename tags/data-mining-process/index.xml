@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data-mining process on Academic Page</title>
+    <link>http://www.laurent-brisson.fr/tags/data-mining-process/</link>
+    <description>Recent content in Data-mining process on Academic Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-en</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="http://www.laurent-brisson.fr/tags/data-mining-process/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to Semantically Enhance a Data Mining Process?</title>
+      <link>http://www.laurent-brisson.fr/publication/2009-semantically-enhance-data-mining-process/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
+      
+      <guid>http://www.laurent-brisson.fr/publication/2009-semantically-enhance-data-mining-process/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An ontology driven data mining process</title>
+      <link>http://www.laurent-brisson.fr/publication/2008-ontology-driven-data-mining-process/</link>
+      <pubDate>Thu, 12 Jun 2008 00:00:00 +0200</pubDate>
+      
+      <guid>http://www.laurent-brisson.fr/publication/2008-ontology-driven-data-mining-process/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intégration de connaissances expertes dans le processus de fouille de données pour l&#39;extraction d&#39;informations pertinentes</title>
+      <link>http://www.laurent-brisson.fr/publication/2006-integration-connaissances-processus/</link>
+      <pubDate>Wed, 13 Dec 2006 00:00:00 +0100</pubDate>
+      
+      <guid>http://www.laurent-brisson.fr/publication/2006-integration-connaissances-processus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving the knowledge discovery process using ontologies</title>
+      <link>http://www.laurent-brisson.fr/publication/2005-improving-knowledge-discovery-process/</link>
+      <pubDate>Sun, 27 Nov 2005 00:00:00 +0100</pubDate>
+      
+      <guid>http://www.laurent-brisson.fr/publication/2005-improving-knowledge-discovery-process/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

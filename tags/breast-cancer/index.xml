@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Breast cancer on Academic Page</title>
+    <link>http://www.laurent-brisson.fr/tags/breast-cancer/</link>
+    <description>Recent content in Breast cancer on Academic Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-en</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="http://www.laurent-brisson.fr/tags/breast-cancer/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Nearest Neighbor Approach to Build a Readable Risk Score for Breast Cancer</title>
+      <link>http://www.laurent-brisson.fr/publication/2015-breast-cancer-risk-score/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>http://www.laurent-brisson.fr/publication/2015-breast-cancer-risk-score/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Challenges to building a platform for a breast cancer risk score</title>
+      <link>http://www.laurent-brisson.fr/publication/2012-platform-breast-cancer/</link>
+      <pubDate>Wed, 16 May 2012 00:00:00 +0200</pubDate>
+      
+      <guid>http://www.laurent-brisson.fr/publication/2012-platform-breast-cancer/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
