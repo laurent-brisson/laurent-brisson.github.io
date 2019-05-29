@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pedagogy on Academic Page</title>
+    <title>pedagogy on Academic Page</title>
     <link>http://www.laurent-brisson.fr/tags/pedagogy/</link>
-    <description>Recent content in Pedagogy on Academic Page</description>
+    <description>Recent content in pedagogy on Academic Page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-en</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 30 Mar 2018 18:04:08 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 05 Sep 2018 14:19:39 +0200</lastBuildDate>
     
 	<atom:link href="http://www.laurent-brisson.fr/tags/pedagogy/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Learning Analytics</title>
+      <link>http://www.laurent-brisson.fr/project/learning-analytics/</link>
+      <pubDate>Wed, 05 Sep 2018 14:19:39 +0200</pubDate>
+      
+      <guid>http://www.laurent-brisson.fr/project/learning-analytics/</guid>
+      <description>This research project aims to use techniques from the analysis of social networks and machine learning to produce Learning Analytics (LA) that will support learners and teachers in changing their practices, based in particular on a dimension that is currently little exploited: the influence of social interactions.</description>
+    </item>
     
     <item>
       <title>Pedagogy</title>
