@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Antoine Mallégol | Academic Page</title>
+    <link>http://www.laurent-brisson.fr/authors/antoine-mall%C3%A9gol/</link>
+      <atom:link href="http://www.laurent-brisson.fr/authors/antoine-mall%C3%A9gol/index.xml" rel="self" type="application/rss+xml" />
+    <description>Antoine Mallégol</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 31 Oct 2019 16:16:17 +0100</lastBuildDate>
+    <image>
+      <url>http://www.laurent-brisson.fr/img/icon-192.png</url>
+      <title>Antoine Mallégol</title>
+      <link>http://www.laurent-brisson.fr/authors/antoine-mall%C3%A9gol/</link>
+    </image>
+    
+    <item>
+      <title>Roles in social interactions: graphlets in temporal networks applied to learning analytics </title>
+      <link>http://www.laurent-brisson.fr/publication/2019-roles-in-social-interactions/</link>
+      <pubDate>Thu, 31 Oct 2019 16:16:17 +0100</pubDate>
+      <guid>http://www.laurent-brisson.fr/publication/2019-roles-in-social-interactions/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

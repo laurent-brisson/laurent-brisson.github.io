@@ -1,31 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>visual_analytics on Academic Page</title>
+    <title>visual_analytics | Academic Page</title>
     <link>http://www.laurent-brisson.fr/tags/visual_analytics/</link>
-    <description>Recent content in visual_analytics on Academic Page</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-en</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 30 Mar 2018 18:26:13 +0200</lastBuildDate>
-    
-	<atom:link href="http://www.laurent-brisson.fr/tags/visual_analytics/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="http://www.laurent-brisson.fr/tags/visual_analytics/index.xml" rel="self" type="application/rss+xml" />
+    <description>visual_analytics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Fri, 30 Mar 2018 18:26:13 +0200</lastBuildDate>
+    <image>
+      <url>http://www.laurent-brisson.fr/img/icon-192.png</url>
+      <title>visual_analytics</title>
+      <link>http://www.laurent-brisson.fr/tags/visual_analytics/</link>
+    </image>
     
     <item>
       <title>Immersive Analytics</title>
       <link>http://www.laurent-brisson.fr/project/immersive-analytics/</link>
       <pubDate>Fri, 30 Mar 2018 18:26:13 +0200</pubDate>
-      
       <guid>http://www.laurent-brisson.fr/project/immersive-analytics/</guid>
-      <description></description>
+      <description>&lt;p&gt;This work aims to develop new methods of data exploration and analysis using immersion techniques in 3D environments.&lt;/p&gt;
+
+&lt;p&gt;We are particularly interested here in the development of graph visualization techniques to allow:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;an intuitive visualization of the centrality of nodes (in the sense defined in the field of social network analysis by closeness, betweenness, pagerank&amp;hellip;)&lt;/li&gt;
+&lt;li&gt;the ability to navigate between several levels of detail (from the community graph to the communities themselves)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This work is based on the ongoing thesis work of Piriziwè Kobina.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Visualisation Immersive de Graphes en 3D pour explorer des graphes de communautés</title>
       <link>http://www.laurent-brisson.fr/publication/2018-visualisation-immersive-graphe/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0100</pubDate>
-      
       <guid>http://www.laurent-brisson.fr/publication/2018-visualisation-immersive-graphe/</guid>
       <description></description>
     </item>

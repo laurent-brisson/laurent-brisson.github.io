@@ -1,69 +1,138 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Academic Page</title>
+    <title>Projects | Academic Page</title>
     <link>http://www.laurent-brisson.fr/project/</link>
-    <description>Recent content in Projects on Academic Page</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-en</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 05 Sep 2018 14:19:39 +0200</lastBuildDate>
+      <atom:link href="http://www.laurent-brisson.fr/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 31 Oct 2019 12:00:00 +0200</lastBuildDate>
+    <image>
+      <url>http://www.laurent-brisson.fr/img/icon-192.png</url>
+      <title>Projects</title>
+      <link>http://www.laurent-brisson.fr/project/</link>
+    </image>
     
-	<atom:link href="http://www.laurent-brisson.fr/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Complex Networks Analysis</title>
+      <link>http://www.laurent-brisson.fr/project/complex-networks/</link>
+      <pubDate>Thu, 31 Oct 2019 12:00:00 +0200</pubDate>
+      <guid>http://www.laurent-brisson.fr/project/complex-networks/</guid>
+      <description>&lt;p&gt;This work focuses on the analysis of social networks or interaction networks in order to detect communities or behaviours. Temporal evolution of interactions and communities is a major concern.&lt;/p&gt;
+
+&lt;p&gt;The approaches used are:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;detection of temporal communities in graphs that may have attributes on nodes and/or edges&lt;/li&gt;
+&lt;li&gt;graphlet identification (small induced subgraphs)&lt;/li&gt;
+&lt;li&gt;machine learning tools for classification and clustering&lt;/li&gt;
+&lt;li&gt;2D visualization tools for community evolution&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;More broadly, this theme also focuses mechanisms of information propagation within social networks. The influence of network topology and the nature of the messages carried on the propagation of information is studied.&lt;/p&gt;
+
+&lt;p&gt;We have many fields of application for this work: crowdfunding study, echo chambers detection in community platforms, influence of interactions on the quality of student learning but also the study of the dynamics of biological networks.&lt;/p&gt;
+</description>
+    </item>
     
+    <item>
+      <title>[Carnot TSN 2019] eXplainable AnalytIcs for EDUcation</title>
+      <link>http://www.laurent-brisson.fr/project/xai-edu/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0100</pubDate>
+      <guid>http://www.laurent-brisson.fr/project/xai-edu/</guid>
+      <description>&lt;p&gt;The XAI-EDU project aims to use Artificial Intelligence (AI) techniques to produce Learning Analytics (LA) that will support learners and teachers in changing their practices based on
+in particular on a dimension that is currently little exploited: the influence of social interactions.&lt;/p&gt;
+
+&lt;p&gt;To address this issue, we propose a mixed numerical and symbolic approach (based on business knowledge) to make decision-making tools explainable and actionable.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Learning Analytics</title>
       <link>http://www.laurent-brisson.fr/project/learning-analytics/</link>
       <pubDate>Wed, 05 Sep 2018 14:19:39 +0200</pubDate>
-      
       <guid>http://www.laurent-brisson.fr/project/learning-analytics/</guid>
-      <description>This research project aims to use techniques from the analysis of social networks and machine learning to produce Learning Analytics (LA) that will support learners and teachers in changing their practices, based in particular on a dimension that is currently little exploited: the influence of social interactions.</description>
+      <description>&lt;p&gt;This work aims to use techniques from the analysis of social networks and machine learning to produce Learning Analytics (LA) that will support learners and teachers in changing their practices.&lt;/p&gt;
+
+&lt;p&gt;We are particularly interested in how the analysis of social interactions allows us to obtain insights into the dynamics of learning strategies.&lt;/p&gt;
+
+&lt;p&gt;This work is supported in particular by the post-doctoral work of Raphaël Charbey and the ongoing thesis work of Michael Kamau Wahiu.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Breast Cancer Risk Assessment</title>
       <link>http://www.laurent-brisson.fr/project/breast-cancer-risk-assessment/</link>
       <pubDate>Wed, 05 Sep 2018 14:11:02 +0200</pubDate>
-      
       <guid>http://www.laurent-brisson.fr/project/breast-cancer-risk-assessment/</guid>
-      <description>According to the World Health Organization, starting from 2010, cancer will become the leading cause of death worldwide. Prevention of major cancer localizations through a quantified assessment of risk factors is a major concern in order to decrease their impact in our society. In this project our objective was to find and to evaluate modeling methods easily readable by a physician.</description>
+      <description>&lt;p&gt;According to the World Health Organization, starting from 2010, cancer will become the leading cause of death worldwide. Prevention of major cancer localizations through a quantified assessment of risk factors is a major concern in order to decrease their impact in our society. In this project our objective was to find and to evaluate modeling methods easily readable by a physician.&lt;/p&gt;
+
+&lt;p&gt;This work is based on the thesis work of Gauthier Emilien (PhD defense in 2013).&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Immersive Analytics</title>
       <link>http://www.laurent-brisson.fr/project/immersive-analytics/</link>
       <pubDate>Fri, 30 Mar 2018 18:26:13 +0200</pubDate>
-      
       <guid>http://www.laurent-brisson.fr/project/immersive-analytics/</guid>
-      <description></description>
+      <description>&lt;p&gt;This work aims to develop new methods of data exploration and analysis using immersion techniques in 3D environments.&lt;/p&gt;
+
+&lt;p&gt;We are particularly interested here in the development of graph visualization techniques to allow:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;an intuitive visualization of the centrality of nodes (in the sense defined in the field of social network analysis by closeness, betweenness, pagerank&amp;hellip;)&lt;/li&gt;
+&lt;li&gt;the ability to navigate between several levels of detail (from the community graph to the communities themselves)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This work is based on the ongoing thesis work of Piriziwè Kobina.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Higher Education</title>
+      <title>Higher Education Pedagogy</title>
       <link>http://www.laurent-brisson.fr/project/pedagogy/</link>
       <pubDate>Fri, 30 Mar 2018 18:04:08 +0200</pubDate>
-      
       <guid>http://www.laurent-brisson.fr/project/pedagogy/</guid>
-      <description>Discover some innovations in pedagogy in order to act on students&amp;rsquo; autonomy and motivation through different activities such as role-playing or group MCQ.</description>
+      <description>&lt;p&gt;The purpose of this work on pedagogy in higher education is to take a step back on the various pedagogical innovations implemented in my teaching activities at IMT Atlantique.&lt;/p&gt;
+
+&lt;p&gt;Several topics are covered:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;student motivation and autonomy&lt;/li&gt;
+&lt;li&gt;skill assessment&lt;/li&gt;
+&lt;li&gt;peer review&lt;/li&gt;
+&lt;li&gt;the management of heterogeneous populations&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
-      <title>Information Dissemination</title>
-      <link>http://www.laurent-brisson.fr/project/information-dissemination/</link>
-      <pubDate>Fri, 30 Mar 2018 17:22:00 +0200</pubDate>
-      
-      <guid>http://www.laurent-brisson.fr/project/information-dissemination/</guid>
-      <description>This project aims to analyze the mechanisms of information propagation within social networks. What is the influence of the network topology? What is the influence of the nature of the message conveyed or its mode of transmission?</description>
-    </item>
-    
-    <item>
-      <title>Pluralisme de l&#39;information en ligne (ANR PIL)</title>
+      <title>[ANR 2018-2021] Pluralisme de l&#39;information en ligne (PIL)</title>
       <link>http://www.laurent-brisson.fr/project/anr-pil/</link>
       <pubDate>Fri, 30 Mar 2018 16:33:05 +0200</pubDate>
-      
       <guid>http://www.laurent-brisson.fr/project/anr-pil/</guid>
-      <description>Analyse and assess the socio-economic effects of digital transformations on information quality and pluralism (QPI) in the media universe.</description>
+      <description>&lt;p&gt;The goal of this project is to analyze and evaluate the socio-economic effects of digital transformations on information quality and pluralism (QPI) in the media universe.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The written and audiovisual media are an essential link in political pluralism. Their digitisation and the explosion of online informational content are a priori conducive to the formation of plural opinions, which guarantee the proper functioning of democracy.&lt;/li&gt;
+&lt;li&gt;However, this pluralism of content and sources is not in itself synonymous with information quality.&lt;/li&gt;
+&lt;li&gt;Digital technology, through economic models, informational practices and media sector regulation, could redefine the concept of QPI through the proliferation of modes of production, selection and circulation of low quality information (fakes, poor content, massive information recovery&amp;hellip;).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In a rapidly changing environment, the PIL project proposes precisely to:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;redefine the concept of quality and pluralism through an original multidisciplinary approach,&lt;/li&gt;
+&lt;li&gt;develop innovative measurement methods for QPI,&lt;/li&gt;
+&lt;li&gt;evaluate current instruments for regulating pluralism and make recommendations.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Read more on &lt;a href=&#34;http://www.anr-pil.org/&#34; target=&#34;_blank&#34;&gt;ANR PIL&lt;/a&gt; website.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
     </item>
     
   </channel>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Philippe Lenca | Academic Page</title>
+    <link>http://www.laurent-brisson.fr/authors/philippe-lenca/</link>
+      <atom:link href="http://www.laurent-brisson.fr/authors/philippe-lenca/index.xml" rel="self" type="application/rss+xml" />
+    <description>Philippe Lenca</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>http://www.laurent-brisson.fr/img/icon-192.png</url>
+      <title>Philippe Lenca</title>
+      <link>http://www.laurent-brisson.fr/authors/philippe-lenca/</link>
+    </image>
+    
+    <item>
+      <title>A Nearest Neighbor Approach to Build a Readable Risk Score for Breast Cancer</title>
+      <link>http://www.laurent-brisson.fr/publication/2015-breast-cancer-risk-score/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      <guid>http://www.laurent-brisson.fr/publication/2015-breast-cancer-risk-score/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Challenges to building a platform for a breast cancer risk score</title>
+      <link>http://www.laurent-brisson.fr/publication/2012-platform-breast-cancer/</link>
+      <pubDate>Wed, 16 May 2012 00:00:00 +0200</pubDate>
+      <guid>http://www.laurent-brisson.fr/publication/2012-platform-breast-cancer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Breast cancer risk score: a data mining approach to improve readability</title>
+      <link>http://www.laurent-brisson.fr/publication/2011-breast-cancer-approach-improve-readability/</link>
+      <pubDate>Mon, 18 Jul 2011 00:00:00 +0200</pubDate>
+      <guid>http://www.laurent-brisson.fr/publication/2011-breast-cancer-approach-improve-readability/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

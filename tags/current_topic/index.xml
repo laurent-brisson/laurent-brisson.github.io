@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>current_topic | Academic Page</title>
+    <link>http://www.laurent-brisson.fr/tags/current_topic/</link>
+      <atom:link href="http://www.laurent-brisson.fr/tags/current_topic/index.xml" rel="self" type="application/rss+xml" />
+    <description>current_topic</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 31 Oct 2019 12:00:00 +0200</lastBuildDate>
+    <image>
+      <url>http://www.laurent-brisson.fr/img/icon-192.png</url>
+      <title>current_topic</title>
+      <link>http://www.laurent-brisson.fr/tags/current_topic/</link>
+    </image>
+    
+    <item>
+      <title>Complex Networks Analysis</title>
+      <link>http://www.laurent-brisson.fr/project/complex-networks/</link>
+      <pubDate>Thu, 31 Oct 2019 12:00:00 +0200</pubDate>
+      <guid>http://www.laurent-brisson.fr/project/complex-networks/</guid>
+      <description>&lt;p&gt;This work focuses on the analysis of social networks or interaction networks in order to detect communities or behaviours. Temporal evolution of interactions and communities is a major concern.&lt;/p&gt;
+
+&lt;p&gt;The approaches used are:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;detection of temporal communities in graphs that may have attributes on nodes and/or edges&lt;/li&gt;
+&lt;li&gt;graphlet identification (small induced subgraphs)&lt;/li&gt;
+&lt;li&gt;machine learning tools for classification and clustering&lt;/li&gt;
+&lt;li&gt;2D visualization tools for community evolution&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;More broadly, this theme also focuses mechanisms of information propagation within social networks. The influence of network topology and the nature of the messages carried on the propagation of information is studied.&lt;/p&gt;
+
+&lt;p&gt;We have many fields of application for this work: crowdfunding study, echo chambers detection in community platforms, influence of interactions on the quality of student learning but also the study of the dynamics of biological networks.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Learning Analytics</title>
+      <link>http://www.laurent-brisson.fr/project/learning-analytics/</link>
+      <pubDate>Wed, 05 Sep 2018 14:19:39 +0200</pubDate>
+      <guid>http://www.laurent-brisson.fr/project/learning-analytics/</guid>
+      <description>&lt;p&gt;This work aims to use techniques from the analysis of social networks and machine learning to produce Learning Analytics (LA) that will support learners and teachers in changing their practices.&lt;/p&gt;
+
+&lt;p&gt;We are particularly interested in how the analysis of social interactions allows us to obtain insights into the dynamics of learning strategies.&lt;/p&gt;
+
+&lt;p&gt;This work is supported in particular by the post-doctoral work of Raphaël Charbey and the ongoing thesis work of Michael Kamau Wahiu.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Immersive Analytics</title>
+      <link>http://www.laurent-brisson.fr/project/immersive-analytics/</link>
+      <pubDate>Fri, 30 Mar 2018 18:26:13 +0200</pubDate>
+      <guid>http://www.laurent-brisson.fr/project/immersive-analytics/</guid>
+      <description>&lt;p&gt;This work aims to develop new methods of data exploration and analysis using immersion techniques in 3D environments.&lt;/p&gt;
+
+&lt;p&gt;We are particularly interested here in the development of graph visualization techniques to allow:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;an intuitive visualization of the centrality of nodes (in the sense defined in the field of social network analysis by closeness, betweenness, pagerank&amp;hellip;)&lt;/li&gt;
+&lt;li&gt;the ability to navigate between several levels of detail (from the community graph to the communities themselves)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This work is based on the ongoing thesis work of Piriziwè Kobina.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Higher Education Pedagogy</title>
+      <link>http://www.laurent-brisson.fr/project/pedagogy/</link>
+      <pubDate>Fri, 30 Mar 2018 18:04:08 +0200</pubDate>
+      <guid>http://www.laurent-brisson.fr/project/pedagogy/</guid>
+      <description>&lt;p&gt;The purpose of this work on pedagogy in higher education is to take a step back on the various pedagogical innovations implemented in my teaching activities at IMT Atlantique.&lt;/p&gt;
+
+&lt;p&gt;Several topics are covered:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;student motivation and autonomy&lt;/li&gt;
+&lt;li&gt;skill assessment&lt;/li&gt;
+&lt;li&gt;peer review&lt;/li&gt;
+&lt;li&gt;the management of heterogeneous populations&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

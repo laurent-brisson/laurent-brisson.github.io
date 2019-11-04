@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>knowledge on Academic Page</title>
+    <title>knowledge | Academic Page</title>
     <link>http://www.laurent-brisson.fr/tags/knowledge/</link>
-    <description>Recent content in knowledge on Academic Page</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-en</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 13 Dec 2006 00:00:00 +0100</lastBuildDate>
-    
-	<atom:link href="http://www.laurent-brisson.fr/tags/knowledge/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="http://www.laurent-brisson.fr/tags/knowledge/index.xml" rel="self" type="application/rss+xml" />
+    <description>knowledge</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 13 Dec 2006 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>http://www.laurent-brisson.fr/img/icon-192.png</url>
+      <title>knowledge</title>
+      <link>http://www.laurent-brisson.fr/tags/knowledge/</link>
+    </image>
     
     <item>
       <title>Intégration de connaissances expertes dans le processus de fouille de données pour l&#39;extraction d&#39;informations pertinentes</title>
       <link>http://www.laurent-brisson.fr/publication/2006-integration-connaissances-processus/</link>
       <pubDate>Wed, 13 Dec 2006 00:00:00 +0100</pubDate>
-      
       <guid>http://www.laurent-brisson.fr/publication/2006-integration-connaissances-processus/</guid>
       <description></description>
     </item>
@@ -25,7 +24,6 @@
       <title>Ontologie et base de connaissances pour le pré-traitement et post-traitement en fouille de données</title>
       <link>http://www.laurent-brisson.fr/publication/2006-ontologie-fouille-donnees/</link>
       <pubDate>Tue, 17 Jan 2006 00:00:00 +0100</pubDate>
-      
       <guid>http://www.laurent-brisson.fr/publication/2006-ontologie-fouille-donnees/</guid>
       <description></description>
     </item>
@@ -34,7 +32,6 @@
       <title>Improving the knowledge discovery process using ontologies</title>
       <link>http://www.laurent-brisson.fr/publication/2005-improving-knowledge-discovery-process/</link>
       <pubDate>Sun, 27 Nov 2005 00:00:00 +0100</pubDate>
-      
       <guid>http://www.laurent-brisson.fr/publication/2005-improving-knowledge-discovery-process/</guid>
       <description></description>
     </item>
@@ -43,7 +40,6 @@
       <title>KTA: A framework for integrating expert knowledge and experiment memory in transcriptome analysis</title>
       <link>http://www.laurent-brisson.fr/publication/2004-kta-framework-knowledge/</link>
       <pubDate>Mon, 20 Sep 2004 00:00:00 +0200</pubDate>
-      
       <guid>http://www.laurent-brisson.fr/publication/2004-kta-framework-knowledge/</guid>
       <description></description>
     </item>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alya Itani | Academic Page</title>
+    <link>http://www.laurent-brisson.fr/authors/alya-itani/</link>
+      <atom:link href="http://www.laurent-brisson.fr/authors/alya-itani/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alya Itani</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.laurent-brisson.fr/img/icon-192.png</url>
+      <title>Alya Itani</title>
+      <link>http://www.laurent-brisson.fr/authors/alya-itani/</link>
+    </image>
+    
+    <item>
+      <title>Understanding Learner&#39;s Drop-out in MOOCs</title>
+      <link>http://www.laurent-brisson.fr/publication/2018-understanding-learner-dropout-mooc/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>http://www.laurent-brisson.fr/publication/2018-understanding-learner-dropout-mooc/</guid>
+      <description>&lt;p&gt;By clicking on the &lt;code&gt;code&lt;/code&gt; link above you can find the parameters selected for each model after hyper-parameter tuning.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

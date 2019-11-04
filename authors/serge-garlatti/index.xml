@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Serge Garlatti | Academic Page</title>
+    <link>http://www.laurent-brisson.fr/authors/serge-garlatti/</link>
+      <atom:link href="http://www.laurent-brisson.fr/authors/serge-garlatti/index.xml" rel="self" type="application/rss+xml" />
+    <description>Serge Garlatti</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 31 Oct 2019 16:16:17 +0100</lastBuildDate>
+    <image>
+      <url>http://www.laurent-brisson.fr/img/icon-192.png</url>
+      <title>Serge Garlatti</title>
+      <link>http://www.laurent-brisson.fr/authors/serge-garlatti/</link>
+    </image>
+    
+    <item>
+      <title>Roles in social interactions: graphlets in temporal networks applied to learning analytics </title>
+      <link>http://www.laurent-brisson.fr/publication/2019-roles-in-social-interactions/</link>
+      <pubDate>Thu, 31 Oct 2019 16:16:17 +0100</pubDate>
+      <guid>http://www.laurent-brisson.fr/publication/2019-roles-in-social-interactions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding Learner&#39;s Drop-out in MOOCs</title>
+      <link>http://www.laurent-brisson.fr/publication/2018-understanding-learner-dropout-mooc/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>http://www.laurent-brisson.fr/publication/2018-understanding-learner-dropout-mooc/</guid>
+      <description>&lt;p&gt;By clicking on the &lt;code&gt;code&lt;/code&gt; link above you can find the parameters selected for each model after hyper-parameter tuning.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>project | Academic Page</title>
+    <link>http://www.laurent-brisson.fr/tags/project/</link>
+      <atom:link href="http://www.laurent-brisson.fr/tags/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>project</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>http://www.laurent-brisson.fr/img/icon-192.png</url>
+      <title>project</title>
+      <link>http://www.laurent-brisson.fr/tags/project/</link>
+    </image>
+    
+    <item>
+      <title>[Carnot TSN 2019] eXplainable AnalytIcs for EDUcation</title>
+      <link>http://www.laurent-brisson.fr/project/xai-edu/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0100</pubDate>
+      <guid>http://www.laurent-brisson.fr/project/xai-edu/</guid>
+      <description>&lt;p&gt;The XAI-EDU project aims to use Artificial Intelligence (AI) techniques to produce Learning Analytics (LA) that will support learners and teachers in changing their practices based on
+in particular on a dimension that is currently little exploited: the influence of social interactions.&lt;/p&gt;
+
+&lt;p&gt;To address this issue, we propose a mixed numerical and symbolic approach (based on business knowledge) to make decision-making tools explainable and actionable.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>[ANR 2018-2021] Pluralisme de l&#39;information en ligne (PIL)</title>
+      <link>http://www.laurent-brisson.fr/project/anr-pil/</link>
+      <pubDate>Fri, 30 Mar 2018 16:33:05 +0200</pubDate>
+      <guid>http://www.laurent-brisson.fr/project/anr-pil/</guid>
+      <description>&lt;p&gt;The goal of this project is to analyze and evaluate the socio-economic effects of digital transformations on information quality and pluralism (QPI) in the media universe.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The written and audiovisual media are an essential link in political pluralism. Their digitisation and the explosion of online informational content are a priori conducive to the formation of plural opinions, which guarantee the proper functioning of democracy.&lt;/li&gt;
+&lt;li&gt;However, this pluralism of content and sources is not in itself synonymous with information quality.&lt;/li&gt;
+&lt;li&gt;Digital technology, through economic models, informational practices and media sector regulation, could redefine the concept of QPI through the proliferation of modes of production, selection and circulation of low quality information (fakes, poor content, massive information recovery&amp;hellip;).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In a rapidly changing environment, the PIL project proposes precisely to:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;redefine the concept of quality and pluralism through an original multidisciplinary approach,&lt;/li&gt;
+&lt;li&gt;develop innovative measurement methods for QPI,&lt;/li&gt;
+&lt;li&gt;evaluate current instruments for regulating pluralism and make recommendations.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Read more on &lt;a href=&#34;http://www.anr-pil.org/&#34; target=&#34;_blank&#34;&gt;ANR PIL&lt;/a&gt; website.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

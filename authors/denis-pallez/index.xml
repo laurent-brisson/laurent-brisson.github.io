@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Denis Pallez | Academic Page</title>
+    <link>http://www.laurent-brisson.fr/authors/denis-pallez/</link>
+      <atom:link href="http://www.laurent-brisson.fr/authors/denis-pallez/index.xml" rel="self" type="application/rss+xml" />
+    <description>Denis Pallez</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 09 Jun 2008 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>http://www.laurent-brisson.fr/img/icon-192.png</url>
+      <title>Denis Pallez</title>
+      <link>http://www.laurent-brisson.fr/authors/denis-pallez/</link>
+    </image>
+    
+    <item>
+      <title>Towards a human eye behavior model by applying Data Mining Techniques on Gaze Information from IEC</title>
+      <link>http://www.laurent-brisson.fr/publication/2008-human-eye-behavior-model/</link>
+      <pubDate>Mon, 09 Jun 2008 00:00:00 +0200</pubDate>
+      <guid>http://www.laurent-brisson.fr/publication/2008-human-eye-behavior-model/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
