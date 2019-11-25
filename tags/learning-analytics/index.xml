@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>learning analytics | Academic Page - Laurent Brisson (PhD)</title>
+    <title>learning-analytics | Academic Page - Laurent Brisson (PhD)</title>
     <link>http://www.laurent-brisson.fr/tags/learning-analytics/</link>
       <atom:link href="http://www.laurent-brisson.fr/tags/learning-analytics/index.xml" rel="self" type="application/rss+xml" />
-    <description>learning analytics</description>
+    <description>learning-analytics</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 31 Oct 2019 16:16:17 +0100</lastBuildDate>
     <image>
       <url>http://www.laurent-brisson.fr/img/icon-192.png</url>
-      <title>learning analytics</title>
+      <title>learning-analytics</title>
       <link>http://www.laurent-brisson.fr/tags/learning-analytics/</link>
     </image>
     
