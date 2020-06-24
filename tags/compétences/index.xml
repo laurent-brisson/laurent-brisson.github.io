@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>compétences on Academic Page</title>
+    <title>compétences | Academic Page</title>
     <link>http://www.laurent-brisson.fr/tags/comp%C3%A9tences/</link>
-    <description>Recent content in compétences on Academic Page</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-en</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 08 Jun 2011 00:00:00 +0200</lastBuildDate>
-    
-	<atom:link href="http://www.laurent-brisson.fr/tags/comp%C3%A9tences/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="http://www.laurent-brisson.fr/tags/comp%C3%A9tences/index.xml" rel="self" type="application/rss+xml" />
+    <description>compétences</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 08 Jun 2011 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>http://www.laurent-brisson.fr/img/icon-192.png</url>
+      <title>compétences</title>
+      <link>http://www.laurent-brisson.fr/tags/comp%C3%A9tences/</link>
+    </image>
     
     <item>
       <title>Etudiants et enseignants face à l&#39;approche par compétences</title>
       <link>http://www.laurent-brisson.fr/publication/2011-approche-competence/</link>
       <pubDate>Wed, 08 Jun 2011 00:00:00 +0200</pubDate>
-      
       <guid>http://www.laurent-brisson.fr/publication/2011-approche-competence/</guid>
       <description></description>
     </item>

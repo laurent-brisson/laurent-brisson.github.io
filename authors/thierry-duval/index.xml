@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thierry Duval | Academic Page</title>
+    <link>http://www.laurent-brisson.fr/authors/thierry-duval/</link>
+      <atom:link href="http://www.laurent-brisson.fr/authors/thierry-duval/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thierry Duval</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.laurent-brisson.fr/img/icon-192.png</url>
+      <title>Thierry Duval</title>
+      <link>http://www.laurent-brisson.fr/authors/thierry-duval/</link>
+    </image>
+    
+    <item>
+      <title>Layout radial 3D pour la visualisation de la centralité dans les graphes </title>
+      <link>http://www.laurent-brisson.fr/publication/2020-layout-radial-3d-visusalition-centralite-graphes/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.laurent-brisson.fr/publication/2020-layout-radial-3d-visusalition-centralite-graphes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visualisation Immersive de Graphes en 3D pour explorer des graphes de communautés</title>
+      <link>http://www.laurent-brisson.fr/publication/2018-visualisation-immersive-graphe/</link>
+      <pubDate>Mon, 22 Jan 2018 00:00:00 +0100</pubDate>
+      <guid>http://www.laurent-brisson.fr/publication/2018-visualisation-immersive-graphe/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

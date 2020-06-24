@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Piriziwè Kobina | Academic Page</title>
+    <link>http://www.laurent-brisson.fr/authors/piriziw%C3%A8-kobina/</link>
+      <atom:link href="http://www.laurent-brisson.fr/authors/piriziw%C3%A8-kobina/index.xml" rel="self" type="application/rss+xml" />
+    <description>Piriziwè Kobina</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.laurent-brisson.fr/img/icon-192.png</url>
+      <title>Piriziwè Kobina</title>
+      <link>http://www.laurent-brisson.fr/authors/piriziw%C3%A8-kobina/</link>
+    </image>
+    
+    <item>
+      <title>Layout radial 3D pour la visualisation de la centralité dans les graphes </title>
+      <link>http://www.laurent-brisson.fr/publication/2020-layout-radial-3d-visusalition-centralite-graphes/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.laurent-brisson.fr/publication/2020-layout-radial-3d-visusalition-centralite-graphes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

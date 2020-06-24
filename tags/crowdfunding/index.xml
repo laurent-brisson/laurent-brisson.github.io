@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>crowdfunding | Academic Page</title>
+    <link>http://www.laurent-brisson.fr/tags/crowdfunding/</link>
+      <atom:link href="http://www.laurent-brisson.fr/tags/crowdfunding/index.xml" rel="self" type="application/rss+xml" />
+    <description>crowdfunding</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 24 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.laurent-brisson.fr/img/icon-192.png</url>
+      <title>crowdfunding</title>
+      <link>http://www.laurent-brisson.fr/tags/crowdfunding/</link>
+    </image>
+    
+    <item>
+      <title>Une plateforme de crowdfunding et son réseau social - L’exemple Ulule</title>
+      <link>http://www.laurent-brisson.fr/publication/2020-plateforme-crowdfunding/</link>
+      <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.laurent-brisson.fr/publication/2020-plateforme-crowdfunding/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

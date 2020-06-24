@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>association rule on Academic Page</title>
+    <title>association rule | Academic Page</title>
     <link>http://www.laurent-brisson.fr/tags/association-rule/</link>
-    <description>Recent content in association rule on Academic Page</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-en</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 20 Sep 2004 00:00:00 +0200</lastBuildDate>
-    
-	<atom:link href="http://www.laurent-brisson.fr/tags/association-rule/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="http://www.laurent-brisson.fr/tags/association-rule/index.xml" rel="self" type="application/rss+xml" />
+    <description>association rule</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 20 Sep 2004 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>http://www.laurent-brisson.fr/img/icon-192.png</url>
+      <title>association rule</title>
+      <link>http://www.laurent-brisson.fr/tags/association-rule/</link>
+    </image>
     
     <item>
       <title>HASAR: mining sequential association rules for atherosclerosis risk factor analysis</title>
       <link>http://www.laurent-brisson.fr/publication/2004-hasar-association-rule/</link>
       <pubDate>Mon, 20 Sep 2004 00:00:00 +0200</pubDate>
-      
       <guid>http://www.laurent-brisson.fr/publication/2004-hasar-association-rule/</guid>
       <description></description>
     </item>

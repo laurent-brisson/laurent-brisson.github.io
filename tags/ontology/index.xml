@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ontology on Academic Page</title>
+    <title>ontology | Academic Page</title>
     <link>http://www.laurent-brisson.fr/tags/ontology/</link>
-    <description>Recent content in ontology on Academic Page</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-en</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Thu, 12 Jun 2008 00:00:00 +0200</lastBuildDate>
-    
-	<atom:link href="http://www.laurent-brisson.fr/tags/ontology/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="http://www.laurent-brisson.fr/tags/ontology/index.xml" rel="self" type="application/rss+xml" />
+    <description>ontology</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 12 Jun 2008 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>http://www.laurent-brisson.fr/img/icon-192.png</url>
+      <title>ontology</title>
+      <link>http://www.laurent-brisson.fr/tags/ontology/</link>
+    </image>
     
     <item>
       <title>An ontology driven data mining process</title>
       <link>http://www.laurent-brisson.fr/publication/2008-ontology-driven-data-mining-process/</link>
       <pubDate>Thu, 12 Jun 2008 00:00:00 +0200</pubDate>
-      
       <guid>http://www.laurent-brisson.fr/publication/2008-ontology-driven-data-mining-process/</guid>
       <description></description>
     </item>
@@ -25,7 +24,6 @@
       <title>Ontologie et base de connaissances pour le pré-traitement et post-traitement en fouille de données</title>
       <link>http://www.laurent-brisson.fr/publication/2006-ontologie-fouille-donnees/</link>
       <pubDate>Tue, 17 Jan 2006 00:00:00 +0100</pubDate>
-      
       <guid>http://www.laurent-brisson.fr/publication/2006-ontologie-fouille-donnees/</guid>
       <description></description>
     </item>

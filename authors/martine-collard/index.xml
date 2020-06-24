@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Martine Collard | Academic Page</title>
+    <link>http://www.laurent-brisson.fr/authors/martine-collard/</link>
+      <atom:link href="http://www.laurent-brisson.fr/authors/martine-collard/index.xml" rel="self" type="application/rss+xml" />
+    <description>Martine Collard</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 29 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.laurent-brisson.fr/img/icon-192.png</url>
+      <title>Martine Collard</title>
+      <link>http://www.laurent-brisson.fr/authors/martine-collard/</link>
+    </image>
+    
+    <item>
+      <title>Information Dissemination in scale-free networks: Profusion versus Scarcity</title>
+      <link>http://www.laurent-brisson.fr/publication/2017-information-dissemination/</link>
+      <pubDate>Wed, 29 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>http://www.laurent-brisson.fr/publication/2017-information-dissemination/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rumor Spreading Modeling: Profusion versus Scarcity</title>
+      <link>http://www.laurent-brisson.fr/publication/2015-rumor-spreading/</link>
+      <pubDate>Tue, 25 Aug 2015 00:00:00 +0200</pubDate>
+      <guid>http://www.laurent-brisson.fr/publication/2015-rumor-spreading/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variable optimization for flood prediction</title>
+      <link>http://www.laurent-brisson.fr/publication/2011-variable-optimization-flood-prediction/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      <guid>http://www.laurent-brisson.fr/publication/2011-variable-optimization-flood-prediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to Semantically Enhance a Data Mining Process?</title>
+      <link>http://www.laurent-brisson.fr/publication/2009-semantically-enhance-data-mining-process/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
+      <guid>http://www.laurent-brisson.fr/publication/2009-semantically-enhance-data-mining-process/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An ontology driven data mining process</title>
+      <link>http://www.laurent-brisson.fr/publication/2008-ontology-driven-data-mining-process/</link>
+      <pubDate>Thu, 12 Jun 2008 00:00:00 +0200</pubDate>
+      <guid>http://www.laurent-brisson.fr/publication/2008-ontology-driven-data-mining-process/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mining gene expression data using domain knowledge</title>
+      <link>http://www.laurent-brisson.fr/publication/2009-gene-expression-domain-knowledge/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
+      <guid>http://www.laurent-brisson.fr/publication/2009-gene-expression-domain-knowledge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ontologie et base de connaissances pour le pré-traitement et post-traitement en fouille de données</title>
+      <link>http://www.laurent-brisson.fr/publication/2006-ontologie-fouille-donnees/</link>
+      <pubDate>Tue, 17 Jan 2006 00:00:00 +0100</pubDate>
+      <guid>http://www.laurent-brisson.fr/publication/2006-ontologie-fouille-donnees/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving the knowledge discovery process using ontologies</title>
+      <link>http://www.laurent-brisson.fr/publication/2005-improving-knowledge-discovery-process/</link>
+      <pubDate>Sun, 27 Nov 2005 00:00:00 +0100</pubDate>
+      <guid>http://www.laurent-brisson.fr/publication/2005-improving-knowledge-discovery-process/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HASAR: mining sequential association rules for atherosclerosis risk factor analysis</title>
+      <link>http://www.laurent-brisson.fr/publication/2004-hasar-association-rule/</link>
+      <pubDate>Mon, 20 Sep 2004 00:00:00 +0200</pubDate>
+      <guid>http://www.laurent-brisson.fr/publication/2004-hasar-association-rule/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KTA: A framework for integrating expert knowledge and experiment memory in transcriptome analysis</title>
+      <link>http://www.laurent-brisson.fr/publication/2004-kta-framework-knowledge/</link>
+      <pubDate>Mon, 20 Sep 2004 00:00:00 +0200</pubDate>
+      <guid>http://www.laurent-brisson.fr/publication/2004-kta-framework-knowledge/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,9 +5,9 @@
     <link>http://www.laurent-brisson.fr/home/</link>
     <description>Recent content in Homes on Academic Page</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-en</language>
+    <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 12 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="http://www.laurent-brisson.fr/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -22,13 +22,12 @@
     </item>
     
     <item>
-      <title></title>
+      <title>Biography</title>
       <link>http://www.laurent-brisson.fr/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www.laurent-brisson.fr/home/about/</guid>
-      <description>Biography Laurent BRISSON received a Ph.D degree in Computer Science from Université Nice Sophia-Antipolis (France) in 2006. During his Ph.D he worked on the integration of expert knowledge in data mining processes in order to extract relevant information from human expert point of view.
-In 2017, he joined IMT Atlantique (previously Telecom Bretagne) as an associate professor in the DECIDE team of the Lab-STICC laboratory. His research work in the field of data mining aims to take human beings into account at some point in the data analysis process.</description>
+      <description></description>
     </item>
     
     <item>
@@ -77,6 +76,15 @@ In 2017, he joined IMT Atlantique (previously Telecom Bretagne) as an associate 
     </item>
     
     <item>
+      <title>Accomplishments</title>
+      <link>http://www.laurent-brisson.fr/home/accomplishments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.laurent-brisson.fr/home/accomplishments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Supervised PhD</title>
       <link>http://www.laurent-brisson.fr/home/supervised_phd/</link>
       <pubDate>Mon, 12 Aug 2019 00:00:00 +0000</pubDate>
@@ -97,6 +105,15 @@ In 2017, he joined IMT Atlantique (previously Telecom Bretagne) as an associate 
     </item>
     
     <item>
+      <title>Meet the Team</title>
+      <link>http://www.laurent-brisson.fr/home/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.laurent-brisson.fr/home/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Teaching</title>
       <link>http://www.laurent-brisson.fr/home/teaching/</link>
       <pubDate>Mon, 12 Aug 2019 00:00:00 +0000</pubDate>
@@ -110,7 +127,7 @@ In 2017, he joined IMT Atlantique (previously Telecom Bretagne) as an associate 
     <item>
       <title>Contact</title>
       <link>http://www.laurent-brisson.fr/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www.laurent-brisson.fr/home/contact/</guid>
       <description></description>

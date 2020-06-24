@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Erick Stattner | Academic Page</title>
+    <link>http://www.laurent-brisson.fr/authors/erick-stattner/</link>
+      <atom:link href="http://www.laurent-brisson.fr/authors/erick-stattner/index.xml" rel="self" type="application/rss+xml" />
+    <description>Erick Stattner</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 29 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.laurent-brisson.fr/img/icon-192.png</url>
+      <title>Erick Stattner</title>
+      <link>http://www.laurent-brisson.fr/authors/erick-stattner/</link>
+    </image>
+    
+    <item>
+      <title>Information Dissemination in scale-free networks: Profusion versus Scarcity</title>
+      <link>http://www.laurent-brisson.fr/publication/2017-information-dissemination/</link>
+      <pubDate>Wed, 29 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>http://www.laurent-brisson.fr/publication/2017-information-dissemination/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rumor Spreading Modeling: Profusion versus Scarcity</title>
+      <link>http://www.laurent-brisson.fr/publication/2015-rumor-spreading/</link>
+      <pubDate>Tue, 25 Aug 2015 00:00:00 +0200</pubDate>
+      <guid>http://www.laurent-brisson.fr/publication/2015-rumor-spreading/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

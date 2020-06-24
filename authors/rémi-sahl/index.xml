@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rémi Sahl | Academic Page</title>
+    <link>http://www.laurent-brisson.fr/authors/r%C3%A9mi-sahl/</link>
+      <atom:link href="http://www.laurent-brisson.fr/authors/r%C3%A9mi-sahl/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rémi Sahl</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 22 Jan 2018 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>http://www.laurent-brisson.fr/img/icon-192.png</url>
+      <title>Rémi Sahl</title>
+      <link>http://www.laurent-brisson.fr/authors/r%C3%A9mi-sahl/</link>
+    </image>
+    
+    <item>
+      <title>Visualisation Immersive de Graphes en 3D pour explorer des graphes de communautés</title>
+      <link>http://www.laurent-brisson.fr/publication/2018-visualisation-immersive-graphe/</link>
+      <pubDate>Mon, 22 Jan 2018 00:00:00 +0100</pubDate>
+      <guid>http://www.laurent-brisson.fr/publication/2018-visualisation-immersive-graphe/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

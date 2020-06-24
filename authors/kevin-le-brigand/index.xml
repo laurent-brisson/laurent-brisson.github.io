@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kevin Le Brigand | Academic Page</title>
+    <link>http://www.laurent-brisson.fr/authors/kevin-le-brigand/</link>
+      <atom:link href="http://www.laurent-brisson.fr/authors/kevin-le-brigand/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kevin Le Brigand</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 20 Sep 2004 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>http://www.laurent-brisson.fr/img/icon-192.png</url>
+      <title>Kevin Le Brigand</title>
+      <link>http://www.laurent-brisson.fr/authors/kevin-le-brigand/</link>
+    </image>
+    
+    <item>
+      <title>KTA: A framework for integrating expert knowledge and experiment memory in transcriptome analysis</title>
+      <link>http://www.laurent-brisson.fr/publication/2004-kta-framework-knowledge/</link>
+      <pubDate>Mon, 20 Sep 2004 00:00:00 +0200</pubDate>
+      <guid>http://www.laurent-brisson.fr/publication/2004-kta-framework-knowledge/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

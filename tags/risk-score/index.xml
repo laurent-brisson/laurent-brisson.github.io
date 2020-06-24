@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>risk score on Academic Page</title>
+    <title>risk score | Academic Page</title>
     <link>http://www.laurent-brisson.fr/tags/risk-score/</link>
-    <description>Recent content in risk score on Academic Page</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-en</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0100</lastBuildDate>
-    
-	<atom:link href="http://www.laurent-brisson.fr/tags/risk-score/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="http://www.laurent-brisson.fr/tags/risk-score/index.xml" rel="self" type="application/rss+xml" />
+    <description>risk score</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>http://www.laurent-brisson.fr/img/icon-192.png</url>
+      <title>risk score</title>
+      <link>http://www.laurent-brisson.fr/tags/risk-score/</link>
+    </image>
     
     <item>
       <title>A Nearest Neighbor Approach to Build a Readable Risk Score for Breast Cancer</title>
       <link>http://www.laurent-brisson.fr/publication/2015-breast-cancer-risk-score/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
-      
       <guid>http://www.laurent-brisson.fr/publication/2015-breast-cancer-risk-score/</guid>
       <description></description>
     </item>
@@ -25,7 +24,6 @@
       <title>Challenges to building a platform for a breast cancer risk score</title>
       <link>http://www.laurent-brisson.fr/publication/2012-platform-breast-cancer/</link>
       <pubDate>Wed, 16 May 2012 00:00:00 +0200</pubDate>
-      
       <guid>http://www.laurent-brisson.fr/publication/2012-platform-breast-cancer/</guid>
       <description></description>
     </item>

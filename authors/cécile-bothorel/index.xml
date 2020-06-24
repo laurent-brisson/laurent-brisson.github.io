@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cécile Bothorel | Academic Page</title>
+    <link>http://www.laurent-brisson.fr/authors/c%C3%A9cile-bothorel/</link>
+      <atom:link href="http://www.laurent-brisson.fr/authors/c%C3%A9cile-bothorel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cécile Bothorel</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 24 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.laurent-brisson.fr/img/icon-192.png</url>
+      <title>Cécile Bothorel</title>
+      <link>http://www.laurent-brisson.fr/authors/c%C3%A9cile-bothorel/</link>
+    </image>
+    
+    <item>
+      <title>Une plateforme de crowdfunding et son réseau social - L’exemple Ulule</title>
+      <link>http://www.laurent-brisson.fr/publication/2020-plateforme-crowdfunding/</link>
+      <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.laurent-brisson.fr/publication/2020-plateforme-crowdfunding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roles in social interactions: graphlets in temporal networks applied to learning analytics </title>
+      <link>http://www.laurent-brisson.fr/publication/2019-roles-in-social-interactions/</link>
+      <pubDate>Thu, 31 Oct 2019 16:16:17 +0100</pubDate>
+      <guid>http://www.laurent-brisson.fr/publication/2019-roles-in-social-interactions/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

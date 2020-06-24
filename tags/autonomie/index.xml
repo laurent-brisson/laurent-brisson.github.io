@@ -1,24 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>autonomie on Academic Page</title>
+    <title>autonomie | Academic Page</title>
     <link>http://www.laurent-brisson.fr/tags/autonomie/</link>
-    <description>Recent content in autonomie on Academic Page</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-en</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 17 Jun 2015 00:00:00 +0200</lastBuildDate>
-    
-	<atom:link href="http://www.laurent-brisson.fr/tags/autonomie/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="http://www.laurent-brisson.fr/tags/autonomie/index.xml" rel="self" type="application/rss+xml" />
+    <description>autonomie</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 17 Jun 2015 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>http://www.laurent-brisson.fr/img/icon-192.png</url>
+      <title>autonomie</title>
+      <link>http://www.laurent-brisson.fr/tags/autonomie/</link>
+    </image>
     
     <item>
       <title>Motivation, autonomie et évaluation : un retour d&#39;expérience en école d&#39;ingénieur</title>
       <link>http://www.laurent-brisson.fr/publication/2015-motivation-autonomie-evaluation/</link>
       <pubDate>Wed, 17 Jun 2015 00:00:00 +0200</pubDate>
-      
       <guid>http://www.laurent-brisson.fr/publication/2015-motivation-autonomie-evaluation/</guid>
-      <description>Telecom Bretagne, école d&amp;rsquo;ingénieur française, se caractérise par une diversification de son recrutement (fort apport d&amp;rsquo;étudiants étrangers) et une culture de l&amp;rsquo;apprentissage actif tout au long du cursus. Un défi, pour les acteurs de la formation (direction et enseignants-chercheurs), est d&amp;rsquo;être en mesure de dispenser une formation de qualité, adaptée aux différents profils d&amp;rsquo;étudiants qui se différentient tant au niveau de leur formation préalable que de leur motivation et de leur autonomie.</description>
+      <description>
+
+&lt;p&gt;Telecom Bretagne, école d&amp;rsquo;ingénieur française, se caractérise par une diversification de son recrutement (fort apport d&amp;rsquo;étudiants étrangers) et une culture de l&amp;rsquo;apprentissage actif tout au long du cursus. Un défi, pour les acteurs de la formation (direction et enseignants-chercheurs), est d&amp;rsquo;être en mesure de dispenser une formation de qualité, adaptée aux différents profils d&amp;rsquo;étudiants qui se différentient tant au niveau de leur formation préalable que de leur motivation et de leur autonomie.&lt;/p&gt;
+
+&lt;p&gt;Nous présentons ici un dispositif pédagogique dont l&amp;rsquo;objectif est de permettre aux enseignants d&amp;rsquo;assurer un suivi individualisé des étudiants et de développer leur motivation et leur autonomie. Au cœur de notre dispositif, construit sur la base d&amp;rsquo;un apprentissage par problèmes et par projet, des activités signifiantes sous forme de jeux de rôles et des modalités d&amp;rsquo;évaluation formative en tant qu&amp;rsquo;outil d&amp;rsquo;apprentissage.&lt;/p&gt;
+
+&lt;h3 id=&#34;téléchargements&#34;&gt;Téléchargements&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Accès aux ressources données aux étudiants concernant l&amp;rsquo;enseignement pris pour exemple dans cet article : &lt;a href=&#34;http://formations.telecom-bretagne.eu/bi&#34; target=&#34;_blank&#34;&gt;http://formations.telecom-bretagne.eu/bi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Questionnaire du bilan pédagogique et résultats bruts [1] : &lt;a href=&#34;../../files/dataset/F3B205_2015_feedback.zip&#34;&gt;F3B205_2015_feedback.zip&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;[1] &lt;em&gt;Attention ce document est donné dans sa forme brute. Si la plupart des étudiants ont répondus aux questions à choix multiples, les réponses libres ne sont pas forcément l&amp;rsquo;expression de la majorité des étudiants. Ainsi, s&amp;rsquo;il est important de prendre en compte les opinions exprimées par les étudiants, elles ne constituent pas toujours une évaluation pertinente du dispositif.&lt;/em&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

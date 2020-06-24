@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>simulation on Academic Page</title>
+    <title>simulation | Academic Page</title>
     <link>http://www.laurent-brisson.fr/tags/simulation/</link>
-    <description>Recent content in simulation on Academic Page</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-en</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 25 Aug 2015 00:00:00 +0200</lastBuildDate>
-    
-	<atom:link href="http://www.laurent-brisson.fr/tags/simulation/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="http://www.laurent-brisson.fr/tags/simulation/index.xml" rel="self" type="application/rss+xml" />
+    <description>simulation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 25 Aug 2015 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>http://www.laurent-brisson.fr/img/icon-192.png</url>
+      <title>simulation</title>
+      <link>http://www.laurent-brisson.fr/tags/simulation/</link>
+    </image>
     
     <item>
       <title>Rumor Spreading Modeling: Profusion versus Scarcity</title>
       <link>http://www.laurent-brisson.fr/publication/2015-rumor-spreading/</link>
       <pubDate>Tue, 25 Aug 2015 00:00:00 +0200</pubDate>
-      
       <guid>http://www.laurent-brisson.fr/publication/2015-rumor-spreading/</guid>
       <description></description>
     </item>
