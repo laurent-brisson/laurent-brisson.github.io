@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lyubareva Inna | Academic Page</title>
+    <link>http://www.laurent-brisson.fr/authors/lyubareva-inna/</link>
+      <atom:link href="http://www.laurent-brisson.fr/authors/lyubareva-inna/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lyubareva Inna</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 27 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.laurent-brisson.fr/img/icon-192.png</url>
+      <title>Lyubareva Inna</title>
+      <link>http://www.laurent-brisson.fr/authors/lyubareva-inna/</link>
+    </image>
+    
+    <item>
+      <title>Crowdfunding platform and inter-project social network: example of Ulule</title>
+      <link>http://www.laurent-brisson.fr/publication/2019-crowdfunding-platform-social-network/</link>
+      <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>http://www.laurent-brisson.fr/publication/2019-crowdfunding-platform-social-network/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

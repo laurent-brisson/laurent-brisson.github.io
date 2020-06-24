@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Billot Romain | Academic Page</title>
+    <link>http://www.laurent-brisson.fr/authors/billot-romain/</link>
+      <atom:link href="http://www.laurent-brisson.fr/authors/billot-romain/index.xml" rel="self" type="application/rss+xml" />
+    <description>Billot Romain</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 27 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.laurent-brisson.fr/img/icon-192.png</url>
+      <title>Billot Romain</title>
+      <link>http://www.laurent-brisson.fr/authors/billot-romain/</link>
+    </image>
+    
+    <item>
+      <title>Crowdfunding platform and inter-project social network: example of Ulule</title>
+      <link>http://www.laurent-brisson.fr/publication/2019-crowdfunding-platform-social-network/</link>
+      <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>http://www.laurent-brisson.fr/publication/2019-crowdfunding-platform-social-network/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

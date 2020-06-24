@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bothorel Cécile | Academic Page</title>
+    <link>http://www.laurent-brisson.fr/authors/bothorel-c%C3%A9cile/</link>
+      <atom:link href="http://www.laurent-brisson.fr/authors/bothorel-c%C3%A9cile/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bothorel Cécile</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 27 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.laurent-brisson.fr/img/icon-192.png</url>
+      <title>Bothorel Cécile</title>
+      <link>http://www.laurent-brisson.fr/authors/bothorel-c%C3%A9cile/</link>
+    </image>
+    
+    <item>
+      <title>Crowdfunding platform and inter-project social network: example of Ulule</title>
+      <link>http://www.laurent-brisson.fr/publication/2019-crowdfunding-platform-social-network/</link>
+      <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>http://www.laurent-brisson.fr/publication/2019-crowdfunding-platform-social-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Sankey diagrams to visualize the evolution of communities </title>
+      <link>http://www.laurent-brisson.fr/publication/2019-using-sankey-diagrams/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>http://www.laurent-brisson.fr/publication/2019-using-sankey-diagrams/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
