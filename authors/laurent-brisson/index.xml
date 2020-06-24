@@ -5,12 +5,20 @@
     <link>http://www.laurent-brisson.fr/authors/laurent-brisson/</link>
       <atom:link href="http://www.laurent-brisson.fr/authors/laurent-brisson/index.xml" rel="self" type="application/rss+xml" />
     <description>Laurent Brisson</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 24 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 07 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://www.laurent-brisson.fr/img/icon-192.png</url>
       <title>Laurent Brisson</title>
       <link>http://www.laurent-brisson.fr/authors/laurent-brisson/</link>
     </image>
+    
+    <item>
+      <title>3D radial layout for centrality visualization in graphs </title>
+      <link>http://www.laurent-brisson.fr/publication/2020-3d-radial-layout-centrality-visualization/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.laurent-brisson.fr/publication/2020-3d-radial-layout-centrality-visualization/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Une plateforme de crowdfunding et son réseau social - L’exemple Ulule</title>

@@ -5,7 +5,7 @@
     <link>http://www.laurent-brisson.fr/publication_types/1/</link>
       <atom:link href="http://www.laurent-brisson.fr/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 07 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://www.laurent-brisson.fr/img/icon-192.png</url>
       <title>1</title>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>Layout radial 3D pour la visualisation de la centralité dans les graphes </title>
-      <link>http://www.laurent-brisson.fr/publication/2020-layout-radial-3d-visusalition-centralite-graphes/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://www.laurent-brisson.fr/publication/2020-layout-radial-3d-visusalition-centralite-graphes/</guid>
+      <title>3D radial layout for centrality visualization in graphs </title>
+      <link>http://www.laurent-brisson.fr/publication/2020-3d-radial-layout-centrality-visualization/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.laurent-brisson.fr/publication/2020-3d-radial-layout-centrality-visualization/</guid>
       <description></description>
     </item>
     
@@ -152,38 +152,6 @@
       <link>http://www.laurent-brisson.fr/publication/2008-human-eye-behavior-model/</link>
       <pubDate>Mon, 09 Jun 2008 00:00:00 +0200</pubDate>
       <guid>http://www.laurent-brisson.fr/publication/2008-human-eye-behavior-model/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ontologie et base de connaissances pour le pré-traitement et post-traitement en fouille de données</title>
-      <link>http://www.laurent-brisson.fr/publication/2006-ontologie-fouille-donnees/</link>
-      <pubDate>Tue, 17 Jan 2006 00:00:00 +0100</pubDate>
-      <guid>http://www.laurent-brisson.fr/publication/2006-ontologie-fouille-donnees/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Improving the knowledge discovery process using ontologies</title>
-      <link>http://www.laurent-brisson.fr/publication/2005-improving-knowledge-discovery-process/</link>
-      <pubDate>Sun, 27 Nov 2005 00:00:00 +0100</pubDate>
-      <guid>http://www.laurent-brisson.fr/publication/2005-improving-knowledge-discovery-process/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>HASAR: mining sequential association rules for atherosclerosis risk factor analysis</title>
-      <link>http://www.laurent-brisson.fr/publication/2004-hasar-association-rule/</link>
-      <pubDate>Mon, 20 Sep 2004 00:00:00 +0200</pubDate>
-      <guid>http://www.laurent-brisson.fr/publication/2004-hasar-association-rule/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>KTA: A framework for integrating expert knowledge and experiment memory in transcriptome analysis</title>
-      <link>http://www.laurent-brisson.fr/publication/2004-kta-framework-knowledge/</link>
-      <pubDate>Mon, 20 Sep 2004 00:00:00 +0200</pubDate>
-      <guid>http://www.laurent-brisson.fr/publication/2004-kta-framework-knowledge/</guid>
       <description></description>
     </item>
     
