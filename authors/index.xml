@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Academic Page - Laurent Brisson (PhD)</title>
+    <title>Authors | Academic Page</title>
     <link>http://www.laurent-brisson.fr/authors/</link>
       <atom:link href="http://www.laurent-brisson.fr/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 31 Oct 2019 16:16:17 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://www.laurent-brisson.fr/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,18 +13,66 @@
     </image>
     
     <item>
-      <title>Antoine Mallégol</title>
-      <link>http://www.laurent-brisson.fr/authors/antoine-mall%C3%A9gol/</link>
-      <pubDate>Thu, 31 Oct 2019 16:16:17 +0100</pubDate>
-      <guid>http://www.laurent-brisson.fr/authors/antoine-mall%C3%A9gol/</guid>
+      <title>Cécile Bothorel</title>
+      <link>http://www.laurent-brisson.fr/authors/c%C3%A9cile-bothorel/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.laurent-brisson.fr/authors/c%C3%A9cile-bothorel/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Cécile Bothorel</title>
-      <link>http://www.laurent-brisson.fr/authors/c%C3%A9cile-bothorel/</link>
+      <title>Laurent Brisson</title>
+      <link>http://www.laurent-brisson.fr/authors/laurent-brisson/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.laurent-brisson.fr/authors/laurent-brisson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Raphaël Charbey</title>
+      <link>http://www.laurent-brisson.fr/authors/rapha%C3%ABl-charbey/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.laurent-brisson.fr/authors/rapha%C3%ABl-charbey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Piriziwè Kobina</title>
+      <link>http://www.laurent-brisson.fr/authors/piriziw%C3%A8-kobina/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.laurent-brisson.fr/authors/piriziw%C3%A8-kobina/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thierry Duval</title>
+      <link>http://www.laurent-brisson.fr/authors/thierry-duval/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.laurent-brisson.fr/authors/thierry-duval/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inna Lyubareva</title>
+      <link>http://www.laurent-brisson.fr/authors/inna-lyubareva/</link>
+      <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.laurent-brisson.fr/authors/inna-lyubareva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Romain Billot</title>
+      <link>http://www.laurent-brisson.fr/authors/romain-billot/</link>
+      <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.laurent-brisson.fr/authors/romain-billot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antoine Mallégol</title>
+      <link>http://www.laurent-brisson.fr/authors/antoine-mall%C3%A9gol/</link>
       <pubDate>Thu, 31 Oct 2019 16:16:17 +0100</pubDate>
-      <guid>http://www.laurent-brisson.fr/authors/c%C3%A9cile-bothorel/</guid>
+      <guid>http://www.laurent-brisson.fr/authors/antoine-mall%C3%A9gol/</guid>
       <description></description>
     </item>
     
@@ -37,14 +85,6 @@
     </item>
     
     <item>
-      <title>Laurent Brisson</title>
-      <link>http://www.laurent-brisson.fr/authors/laurent-brisson/</link>
-      <pubDate>Thu, 31 Oct 2019 16:16:17 +0100</pubDate>
-      <guid>http://www.laurent-brisson.fr/authors/laurent-brisson/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Philippe Ruffieux</title>
       <link>http://www.laurent-brisson.fr/authors/philippe-ruffieux/</link>
       <pubDate>Thu, 31 Oct 2019 16:16:17 +0100</pubDate>
@@ -53,18 +93,74 @@
     </item>
     
     <item>
-      <title>Raphaël Charbey</title>
-      <link>http://www.laurent-brisson.fr/authors/rapha%C3%ABl-charbey/</link>
-      <pubDate>Thu, 31 Oct 2019 16:16:17 +0100</pubDate>
-      <guid>http://www.laurent-brisson.fr/authors/rapha%C3%ABl-charbey/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Serge Garlatti</title>
       <link>http://www.laurent-brisson.fr/authors/serge-garlatti/</link>
       <pubDate>Thu, 31 Oct 2019 16:16:17 +0100</pubDate>
       <guid>http://www.laurent-brisson.fr/authors/serge-garlatti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Billot Romain</title>
+      <link>http://www.laurent-brisson.fr/authors/billot-romain/</link>
+      <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>http://www.laurent-brisson.fr/authors/billot-romain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bothorel Cécile</title>
+      <link>http://www.laurent-brisson.fr/authors/bothorel-c%C3%A9cile/</link>
+      <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>http://www.laurent-brisson.fr/authors/bothorel-c%C3%A9cile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brisson Laurent</title>
+      <link>http://www.laurent-brisson.fr/authors/brisson-laurent/</link>
+      <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>http://www.laurent-brisson.fr/authors/brisson-laurent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lyubareva Inna</title>
+      <link>http://www.laurent-brisson.fr/authors/lyubareva-inna/</link>
+      <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>http://www.laurent-brisson.fr/authors/lyubareva-inna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Euler Reinhardt</title>
+      <link>http://www.laurent-brisson.fr/authors/euler-reinhardt/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>http://www.laurent-brisson.fr/authors/euler-reinhardt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mallégol Antoine</title>
+      <link>http://www.laurent-brisson.fr/authors/mall%C3%A9gol-antoine/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>http://www.laurent-brisson.fr/authors/mall%C3%A9gol-antoine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meyer Patrick</title>
+      <link>http://www.laurent-brisson.fr/authors/meyer-patrick/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>http://www.laurent-brisson.fr/authors/meyer-patrick/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mohammadi Mehrdad</title>
+      <link>http://www.laurent-brisson.fr/authors/mohammadi-mehrdad/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>http://www.laurent-brisson.fr/authors/mohammadi-mehrdad/</guid>
       <description></description>
     </item>
     
@@ -81,14 +177,6 @@
       <link>http://www.laurent-brisson.fr/authors/r%C3%A9mi-sahl/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0100</pubDate>
       <guid>http://www.laurent-brisson.fr/authors/r%C3%A9mi-sahl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Thierry Duval</title>
-      <link>http://www.laurent-brisson.fr/authors/thierry-duval/</link>
-      <pubDate>Mon, 22 Jan 2018 00:00:00 +0100</pubDate>
-      <guid>http://www.laurent-brisson.fr/authors/thierry-duval/</guid>
       <description></description>
     </item>
     

@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Raphaël Charbey | Academic Page - Laurent Brisson (PhD)</title>
+    <title>Raphaël Charbey | Academic Page</title>
     <link>http://www.laurent-brisson.fr/authors/rapha%C3%ABl-charbey/</link>
       <atom:link href="http://www.laurent-brisson.fr/authors/rapha%C3%ABl-charbey/index.xml" rel="self" type="application/rss+xml" />
     <description>Raphaël Charbey</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 31 Oct 2019 16:16:17 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://www.laurent-brisson.fr/img/icon-192.png</url>
       <title>Raphaël Charbey</title>
       <link>http://www.laurent-brisson.fr/authors/rapha%C3%ABl-charbey/</link>
     </image>
+    
+    <item>
+      <title>Énumération de motifs dans un graphe d&#39;évolution de communautés</title>
+      <link>http://www.laurent-brisson.fr/publication/2020-enumeration-motifs-graphe-evolution-communautes/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.laurent-brisson.fr/publication/2020-enumeration-motifs-graphe-evolution-communautes/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Roles in social interactions: graphlets in temporal networks applied to learning analytics </title>

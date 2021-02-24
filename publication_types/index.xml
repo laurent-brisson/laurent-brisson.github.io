@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publication_types | Academic Page - Laurent Brisson (PhD)</title>
+    <title>Publication_types | Academic Page</title>
     <link>http://www.laurent-brisson.fr/publication_types/</link>
       <atom:link href="http://www.laurent-brisson.fr/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication_types</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 31 Oct 2019 16:16:17 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://www.laurent-brisson.fr/img/icon-192.png</url>
       <title>Publication_types</title>
@@ -15,7 +15,7 @@
     <item>
       <title>1</title>
       <link>http://www.laurent-brisson.fr/publication_types/1/</link>
-      <pubDate>Thu, 31 Oct 2019 16:16:17 +0100</pubDate>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
       <guid>http://www.laurent-brisson.fr/publication_types/1/</guid>
       <description></description>
     </item>
@@ -23,8 +23,16 @@
     <item>
       <title>2</title>
       <link>http://www.laurent-brisson.fr/publication_types/2/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
       <guid>http://www.laurent-brisson.fr/publication_types/2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>9</title>
+      <link>http://www.laurent-brisson.fr/publication_types/9/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.laurent-brisson.fr/publication_types/9/</guid>
       <description></description>
     </item>
     

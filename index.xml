@@ -1,361 +1,74 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic Page - Laurent Brisson (PhD)</title>
+    <title>Academic Page on Academic Page</title>
     <link>http://www.laurent-brisson.fr/</link>
-      <atom:link href="http://www.laurent-brisson.fr/index.xml" rel="self" type="application/rss+xml" />
-    <description>Academic Page - Laurent Brisson (PhD)</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0200</lastBuildDate>
-    <image>
-      <url>http://www.laurent-brisson.fr/img/icon-192.png</url>
-      <title>Academic Page - Laurent Brisson (PhD)</title>
-      <link>http://www.laurent-brisson.fr/</link>
-    </image>
+    <description>Recent content in Academic Page on Academic Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2021</copyright>
+    <lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0200</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Example Talk</title>
-      <link>http://www.laurent-brisson.fr/talk/example-talk/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0200</pubDate>
-      <guid>http://www.laurent-brisson.fr/talk/example-talk/</guid>
-      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Roles in social interactions: graphlets in temporal networks applied to learning analytics </title>
-      <link>http://www.laurent-brisson.fr/publication/2019-roles-in-social-interactions/</link>
-      <pubDate>Thu, 31 Oct 2019 16:16:17 +0100</pubDate>
-      <guid>http://www.laurent-brisson.fr/publication/2019-roles-in-social-interactions/</guid>
+      <title>Research Topics</title>
+      <link>http://www.laurent-brisson.fr/research_topics/</link>
+      <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.laurent-brisson.fr/research_topics/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Complex Networks Analysis</title>
-      <link>http://www.laurent-brisson.fr/project/complex-networks/</link>
+      <title>Projects</title>
+      <link>http://www.laurent-brisson.fr/project/</link>
       <pubDate>Thu, 31 Oct 2019 12:00:00 +0200</pubDate>
-      <guid>http://www.laurent-brisson.fr/project/complex-networks/</guid>
-      <description>&lt;p&gt;This work focuses on the analysis of social networks or interaction networks in order to detect communities or behaviours. Temporal evolution of interactions and communities is a major concern.&lt;/p&gt;
-
-&lt;p&gt;The approaches used are:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;detection of temporal communities in graphs that may have attributes on nodes and/or edges&lt;/li&gt;
-&lt;li&gt;graphlet identification (small induced subgraphs)&lt;/li&gt;
-&lt;li&gt;machine learning tools for classification and clustering&lt;/li&gt;
-&lt;li&gt;2D visualization tools for community evolution&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;More broadly, this theme also focuses mechanisms of information propagation within social networks. The influence of network topology and the nature of the messages carried on the propagation of information is studied.&lt;/p&gt;
-
-&lt;p&gt;We have many fields of application for this work: crowdfunding study, echo chambers detection in community platforms, influence of interactions on the quality of student learning but also the study of the dynamics of biological networks.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>[Carnot TSN 2019] eXplainable AnalytIcs for EDUcation</title>
-      <link>http://www.laurent-brisson.fr/project/xai-edu/</link>
-      <pubDate>Fri, 01 Mar 2019 00:00:00 +0100</pubDate>
-      <guid>http://www.laurent-brisson.fr/project/xai-edu/</guid>
-      <description>&lt;p&gt;The XAI-EDU project aims to use Artificial Intelligence (AI) techniques to produce Learning Analytics (LA) that will support learners and teachers in changing their practices based on
-in particular on a dimension that is currently little exploited: the influence of social interactions.&lt;/p&gt;
-
-&lt;p&gt;To address this issue, we propose a mixed numerical and symbolic approach (based on business knowledge) to make decision-making tools explainable and actionable.&lt;/p&gt;
-</description>
+      
+      <guid>http://www.laurent-brisson.fr/project/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Research Activities</title>
-      <link>http://www.laurent-brisson.fr/research/</link>
+      <link>http://www.laurent-brisson.fr/research_activities/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://www.laurent-brisson.fr/research/</guid>
+      
+      <guid>http://www.laurent-brisson.fr/research_activities/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Learning Analytics</title>
-      <link>http://www.laurent-brisson.fr/project/learning-analytics/</link>
-      <pubDate>Wed, 05 Sep 2018 14:19:39 +0200</pubDate>
-      <guid>http://www.laurent-brisson.fr/project/learning-analytics/</guid>
-      <description>&lt;p&gt;This work aims to use techniques from the analysis of social networks and machine learning to produce Learning Analytics (LA) that will support learners and teachers in changing their practices.&lt;/p&gt;
-
-&lt;p&gt;We are particularly interested in how the analysis of social interactions allows us to obtain insights into the dynamics of learning strategies.&lt;/p&gt;
-
-&lt;p&gt;This work is supported in particular by the post-doctoral work of Raphaël Charbey and the ongoing thesis work of Michael Kamau Wahiu.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Breast Cancer Risk Assessment</title>
-      <link>http://www.laurent-brisson.fr/project/breast-cancer-risk-assessment/</link>
-      <pubDate>Wed, 05 Sep 2018 14:11:02 +0200</pubDate>
-      <guid>http://www.laurent-brisson.fr/project/breast-cancer-risk-assessment/</guid>
-      <description>&lt;p&gt;According to the World Health Organization, starting from 2010, cancer will become the leading cause of death worldwide. Prevention of major cancer localizations through a quantified assessment of risk factors is a major concern in order to decrease their impact in our society. In this project our objective was to find and to evaluate modeling methods easily readable by a physician.&lt;/p&gt;
-
-&lt;p&gt;This work is based on the thesis work of Gauthier Emilien (PhD defense in 2013).&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Understanding Learner&#39;s Drop-out in MOOCs</title>
-      <link>http://www.laurent-brisson.fr/publication/2018-understanding-learner-dropout-mooc/</link>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>http://www.laurent-brisson.fr/publication/2018-understanding-learner-dropout-mooc/</guid>
-      <description>&lt;p&gt;By clicking on the &lt;code&gt;code&lt;/code&gt; link above you can find the parameters selected for each model after hyper-parameter tuning.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Immersive Analytics</title>
-      <link>http://www.laurent-brisson.fr/project/immersive-analytics/</link>
-      <pubDate>Fri, 30 Mar 2018 18:26:13 +0200</pubDate>
-      <guid>http://www.laurent-brisson.fr/project/immersive-analytics/</guid>
-      <description>&lt;p&gt;This work aims to develop new methods of data exploration and analysis using immersion techniques in 3D environments.&lt;/p&gt;
-
-&lt;p&gt;We are particularly interested here in the development of graph visualization techniques to allow:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;an intuitive visualization of the centrality of nodes (in the sense defined in the field of social network analysis by closeness, betweenness, pagerank&amp;hellip;)&lt;/li&gt;
-&lt;li&gt;the ability to navigate between several levels of detail (from the community graph to the communities themselves)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;This work is based on the ongoing thesis work of Piriziwè Kobina.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Higher Education Pedagogy</title>
-      <link>http://www.laurent-brisson.fr/project/pedagogy/</link>
-      <pubDate>Fri, 30 Mar 2018 18:04:08 +0200</pubDate>
-      <guid>http://www.laurent-brisson.fr/project/pedagogy/</guid>
-      <description>&lt;p&gt;The purpose of this work on pedagogy in higher education is to take a step back on the various pedagogical innovations implemented in my teaching activities at IMT Atlantique.&lt;/p&gt;
-
-&lt;p&gt;Several topics are covered:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;student motivation and autonomy&lt;/li&gt;
-&lt;li&gt;skill assessment&lt;/li&gt;
-&lt;li&gt;peer review&lt;/li&gt;
-&lt;li&gt;the management of heterogeneous populations&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>[ANR 2018-2021] Pluralisme de l&#39;information en ligne (PIL)</title>
-      <link>http://www.laurent-brisson.fr/project/anr-pil/</link>
-      <pubDate>Fri, 30 Mar 2018 16:33:05 +0200</pubDate>
-      <guid>http://www.laurent-brisson.fr/project/anr-pil/</guid>
-      <description>&lt;p&gt;The goal of this project is to analyze and evaluate the socio-economic effects of digital transformations on information quality and pluralism (QPI) in the media universe.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;The written and audiovisual media are an essential link in political pluralism. Their digitisation and the explosion of online informational content are a priori conducive to the formation of plural opinions, which guarantee the proper functioning of democracy.&lt;/li&gt;
-&lt;li&gt;However, this pluralism of content and sources is not in itself synonymous with information quality.&lt;/li&gt;
-&lt;li&gt;Digital technology, through economic models, informational practices and media sector regulation, could redefine the concept of QPI through the proliferation of modes of production, selection and circulation of low quality information (fakes, poor content, massive information recovery&amp;hellip;).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;In a rapidly changing environment, the PIL project proposes precisely to:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;redefine the concept of quality and pluralism through an original multidisciplinary approach,&lt;/li&gt;
-&lt;li&gt;develop innovative measurement methods for QPI,&lt;/li&gt;
-&lt;li&gt;evaluate current instruments for regulating pluralism and make recommendations.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Read more on &lt;a href=&#34;http://www.anr-pil.org/&#34; target=&#34;_blank&#34;&gt;ANR PIL&lt;/a&gt; website.
-  &lt;/div&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Visualisation Immersive de Graphes en 3D pour explorer des graphes de communautés</title>
-      <link>http://www.laurent-brisson.fr/publication/2018-visualisation-immersive-graphe/</link>
-      <pubDate>Mon, 22 Jan 2018 00:00:00 +0100</pubDate>
-      <guid>http://www.laurent-brisson.fr/publication/2018-visualisation-immersive-graphe/</guid>
+      <title>Publications</title>
+      <link>http://www.laurent-brisson.fr/publication/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.laurent-brisson.fr/publication/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Information Dissemination in scale-free networks: Profusion versus Scarcity</title>
-      <link>http://www.laurent-brisson.fr/publication/2017-information-dissemination/</link>
-      <pubDate>Wed, 29 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>http://www.laurent-brisson.fr/publication/2017-information-dissemination/</guid>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>http://www.laurent-brisson.fr/talk/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.laurent-brisson.fr/talk/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Le jeu de rôle dans l&#39;enseignement supérieur pour développer l&#39;autonomie et la motivation des étudiants</title>
-      <link>http://www.laurent-brisson.fr/publication/2017-jeu-de-role-autonomie-motivation/</link>
-      <pubDate>Tue, 13 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>http://www.laurent-brisson.fr/publication/2017-jeu-de-role-autonomie-motivation/</guid>
-      <description>
-
-&lt;h3 id=&#34;téléchargements&#34;&gt;Téléchargements&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Les &lt;a href=&#34;../../files/dataset/resultats-questionnaire-qpes-2017.html&#34;&gt;résultats&lt;/a&gt; complets du questionnaire&lt;/li&gt;
-&lt;li&gt;Le &lt;a href=&#34;../../files/guide_enseignant_JDR.pdf&#34;&gt;guide&lt;/a&gt; de l&amp;rsquo;enseignant pour la conduite du jeu de rôle.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Rumor Spreading Modeling: Profusion versus Scarcity</title>
-      <link>http://www.laurent-brisson.fr/publication/2015-rumor-spreading/</link>
-      <pubDate>Tue, 25 Aug 2015 00:00:00 +0200</pubDate>
-      <guid>http://www.laurent-brisson.fr/publication/2015-rumor-spreading/</guid>
+      <title>Posts</title>
+      <link>http://www.laurent-brisson.fr/post/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>http://www.laurent-brisson.fr/post/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Gestion de groupes multilingues dans un enseignement scientifique</title>
-      <link>http://www.laurent-brisson.fr/publication/2015-groupes-multilingues/</link>
-      <pubDate>Wed, 17 Jun 2015 00:00:00 +0200</pubDate>
-      <guid>http://www.laurent-brisson.fr/publication/2015-groupes-multilingues/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Motivation, autonomie et évaluation : un retour d&#39;expérience en école d&#39;ingénieur</title>
-      <link>http://www.laurent-brisson.fr/publication/2015-motivation-autonomie-evaluation/</link>
-      <pubDate>Wed, 17 Jun 2015 00:00:00 +0200</pubDate>
-      <guid>http://www.laurent-brisson.fr/publication/2015-motivation-autonomie-evaluation/</guid>
-      <description>
-
-&lt;p&gt;Telecom Bretagne, école d&amp;rsquo;ingénieur française, se caractérise par une diversification de son recrutement (fort apport d&amp;rsquo;étudiants étrangers) et une culture de l&amp;rsquo;apprentissage actif tout au long du cursus. Un défi, pour les acteurs de la formation (direction et enseignants-chercheurs), est d&amp;rsquo;être en mesure de dispenser une formation de qualité, adaptée aux différents profils d&amp;rsquo;étudiants qui se différentient tant au niveau de leur formation préalable que de leur motivation et de leur autonomie.&lt;/p&gt;
-
-&lt;p&gt;Nous présentons ici un dispositif pédagogique dont l&amp;rsquo;objectif est de permettre aux enseignants d&amp;rsquo;assurer un suivi individualisé des étudiants et de développer leur motivation et leur autonomie. Au cœur de notre dispositif, construit sur la base d&amp;rsquo;un apprentissage par problèmes et par projet, des activités signifiantes sous forme de jeux de rôles et des modalités d&amp;rsquo;évaluation formative en tant qu&amp;rsquo;outil d&amp;rsquo;apprentissage.&lt;/p&gt;
-
-&lt;h3 id=&#34;téléchargements&#34;&gt;Téléchargements&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Accès aux ressources données aux étudiants concernant l&amp;rsquo;enseignement pris pour exemple dans cet article : &lt;a href=&#34;http://formations.telecom-bretagne.eu/bi&#34; target=&#34;_blank&#34;&gt;http://formations.telecom-bretagne.eu/bi&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Questionnaire du bilan pédagogique et résultats bruts [1] : &lt;a href=&#34;../../files/dataset/F3B205_2015_feedback.zip&#34;&gt;F3B205_2015_feedback.zip&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;[1] &lt;em&gt;Attention ce document est donné dans sa forme brute. Si la plupart des étudiants ont répondus aux questions à choix multiples, les réponses libres ne sont pas forcément l&amp;rsquo;expression de la majorité des étudiants. Ainsi, s&amp;rsquo;il est important de prendre en compte les opinions exprimées par les étudiants, elles ne constituent pas toujours une évaluation pertinente du dispositif.&lt;/em&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Opinion mining on experience feedback: A case study on smarphones reviews</title>
-      <link>http://www.laurent-brisson.fr/publication/2015-opinion-mining-experience-feedback/</link>
-      <pubDate>Wed, 13 May 2015 00:00:00 +0200</pubDate>
-      <guid>http://www.laurent-brisson.fr/publication/2015-opinion-mining-experience-feedback/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Nearest Neighbor Approach to Build a Readable Risk Score for Breast Cancer</title>
-      <link>http://www.laurent-brisson.fr/publication/2015-breast-cancer-risk-score/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
-      <guid>http://www.laurent-brisson.fr/publication/2015-breast-cancer-risk-score/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Challenges to building a platform for a breast cancer risk score</title>
-      <link>http://www.laurent-brisson.fr/publication/2012-platform-breast-cancer/</link>
-      <pubDate>Wed, 16 May 2012 00:00:00 +0200</pubDate>
-      <guid>http://www.laurent-brisson.fr/publication/2012-platform-breast-cancer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Breast cancer risk score: a data mining approach to improve readability</title>
-      <link>http://www.laurent-brisson.fr/publication/2011-breast-cancer-approach-improve-readability/</link>
-      <pubDate>Mon, 18 Jul 2011 00:00:00 +0200</pubDate>
-      <guid>http://www.laurent-brisson.fr/publication/2011-breast-cancer-approach-improve-readability/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Etudiants et enseignants face à l&#39;approche par compétences</title>
-      <link>http://www.laurent-brisson.fr/publication/2011-approche-competence/</link>
-      <pubDate>Wed, 08 Jun 2011 00:00:00 +0200</pubDate>
-      <guid>http://www.laurent-brisson.fr/publication/2011-approche-competence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Variable optimization for flood prediction</title>
-      <link>http://www.laurent-brisson.fr/publication/2011-variable-optimization-flood-prediction/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
-      <guid>http://www.laurent-brisson.fr/publication/2011-variable-optimization-flood-prediction/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>How to Semantically Enhance a Data Mining Process?</title>
-      <link>http://www.laurent-brisson.fr/publication/2009-semantically-enhance-data-mining-process/</link>
-      <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
-      <guid>http://www.laurent-brisson.fr/publication/2009-semantically-enhance-data-mining-process/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An ontology driven data mining process</title>
-      <link>http://www.laurent-brisson.fr/publication/2008-ontology-driven-data-mining-process/</link>
-      <pubDate>Thu, 12 Jun 2008 00:00:00 +0200</pubDate>
-      <guid>http://www.laurent-brisson.fr/publication/2008-ontology-driven-data-mining-process/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Towards a human eye behavior model by applying Data Mining Techniques on Gaze Information from IEC</title>
-      <link>http://www.laurent-brisson.fr/publication/2008-human-eye-behavior-model/</link>
-      <pubDate>Mon, 09 Jun 2008 00:00:00 +0200</pubDate>
-      <guid>http://www.laurent-brisson.fr/publication/2008-human-eye-behavior-model/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mining gene expression data using domain knowledge</title>
-      <link>http://www.laurent-brisson.fr/publication/2009-gene-expression-domain-knowledge/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
-      <guid>http://www.laurent-brisson.fr/publication/2009-gene-expression-domain-knowledge/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Intégration de connaissances expertes dans le processus de fouille de données pour l&#39;extraction d&#39;informations pertinentes</title>
-      <link>http://www.laurent-brisson.fr/publication/2006-integration-connaissances-processus/</link>
-      <pubDate>Wed, 13 Dec 2006 00:00:00 +0100</pubDate>
-      <guid>http://www.laurent-brisson.fr/publication/2006-integration-connaissances-processus/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ontologie et base de connaissances pour le pré-traitement et post-traitement en fouille de données</title>
-      <link>http://www.laurent-brisson.fr/publication/2006-ontologie-fouille-donnees/</link>
-      <pubDate>Tue, 17 Jan 2006 00:00:00 +0100</pubDate>
-      <guid>http://www.laurent-brisson.fr/publication/2006-ontologie-fouille-donnees/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Improving the knowledge discovery process using ontologies</title>
-      <link>http://www.laurent-brisson.fr/publication/2005-improving-knowledge-discovery-process/</link>
-      <pubDate>Sun, 27 Nov 2005 00:00:00 +0100</pubDate>
-      <guid>http://www.laurent-brisson.fr/publication/2005-improving-knowledge-discovery-process/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>HASAR: mining sequential association rules for atherosclerosis risk factor analysis</title>
-      <link>http://www.laurent-brisson.fr/publication/2004-hasar-association-rule/</link>
-      <pubDate>Mon, 20 Sep 2004 00:00:00 +0200</pubDate>
-      <guid>http://www.laurent-brisson.fr/publication/2004-hasar-association-rule/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>KTA: A framework for integrating expert knowledge and experiment memory in transcriptome analysis</title>
-      <link>http://www.laurent-brisson.fr/publication/2004-kta-framework-knowledge/</link>
-      <pubDate>Mon, 20 Sep 2004 00:00:00 +0200</pubDate>
-      <guid>http://www.laurent-brisson.fr/publication/2004-kta-framework-knowledge/</guid>
+      <title></title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid></guid>
       <description></description>
     </item>
     
