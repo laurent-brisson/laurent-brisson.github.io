@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>community detection | Academic Page</title>
+    <link>http://www.laurent-brisson.fr/tags/community-detection/</link>
+      <atom:link href="http://www.laurent-brisson.fr/tags/community-detection/index.xml" rel="self" type="application/rss+xml" />
+    <description>community detection</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.laurent-brisson.fr/img/icon-192.png</url>
+      <title>community detection</title>
+      <link>http://www.laurent-brisson.fr/tags/community-detection/</link>
+    </image>
+    
+    <item>
+      <title>How to Choose Community Detection Methods in Complex Networks: The Case Study of Ulule Crowdfunding Platform</title>
+      <link>http://www.laurent-brisson.fr/publication/2021-how-to-choose-community-detection-methods-case-study-ulule/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.laurent-brisson.fr/publication/2021-how-to-choose-community-detection-methods-case-study-ulule/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

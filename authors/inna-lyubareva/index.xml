@@ -5,12 +5,28 @@
     <link>http://www.laurent-brisson.fr/authors/inna-lyubareva/</link>
       <atom:link href="http://www.laurent-brisson.fr/authors/inna-lyubareva/index.xml" rel="self" type="application/rss+xml" />
     <description>Inna Lyubareva</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 24 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://www.laurent-brisson.fr/img/icon-192.png</url>
       <title>Inna Lyubareva</title>
       <link>http://www.laurent-brisson.fr/authors/inna-lyubareva/</link>
     </image>
+    
+    <item>
+      <title>La plateformisation des médias français et le ton du débat public: exemple de YouTube</title>
+      <link>http://www.laurent-brisson.fr/publication/2021-plateformisation-medias-youtube/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.laurent-brisson.fr/publication/2021-plateformisation-medias-youtube/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to Choose Community Detection Methods in Complex Networks: The Case Study of Ulule Crowdfunding Platform</title>
+      <link>http://www.laurent-brisson.fr/publication/2021-how-to-choose-community-detection-methods-case-study-ulule/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.laurent-brisson.fr/publication/2021-how-to-choose-community-detection-methods-case-study-ulule/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Une plateforme de crowdfunding et son réseau social - L’exemple Ulule</title>

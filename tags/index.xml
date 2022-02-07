@@ -5,12 +5,188 @@
     <link>http://www.laurent-brisson.fr/tags/</link>
       <atom:link href="http://www.laurent-brisson.fr/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 07 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://www.laurent-brisson.fr/img/icon-192.png</url>
       <title>Tags</title>
       <link>http://www.laurent-brisson.fr/tags/</link>
     </image>
+    
+    <item>
+      <title>agressive behaviour</title>
+      <link>http://www.laurent-brisson.fr/tags/agressive-behaviour/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.laurent-brisson.fr/tags/agressive-behaviour/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>brutal debates</title>
+      <link>http://www.laurent-brisson.fr/tags/brutal-debates/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.laurent-brisson.fr/tags/brutal-debates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>France</title>
+      <link>http://www.laurent-brisson.fr/tags/france/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.laurent-brisson.fr/tags/france/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>media channels</title>
+      <link>http://www.laurent-brisson.fr/tags/media-channels/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.laurent-brisson.fr/tags/media-channels/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>videos</title>
+      <link>http://www.laurent-brisson.fr/tags/videos/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.laurent-brisson.fr/tags/videos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>YouTube</title>
+      <link>http://www.laurent-brisson.fr/tags/youtube/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.laurent-brisson.fr/tags/youtube/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>course design</title>
+      <link>http://www.laurent-brisson.fr/tags/course-design/</link>
+      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.laurent-brisson.fr/tags/course-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hybrid learning environment</title>
+      <link>http://www.laurent-brisson.fr/tags/hybrid-learning-environment/</link>
+      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.laurent-brisson.fr/tags/hybrid-learning-environment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>learning-analytics</title>
+      <link>http://www.laurent-brisson.fr/tags/learning-analytics/</link>
+      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.laurent-brisson.fr/tags/learning-analytics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>online course</title>
+      <link>http://www.laurent-brisson.fr/tags/online-course/</link>
+      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.laurent-brisson.fr/tags/online-course/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>student engagement</title>
+      <link>http://www.laurent-brisson.fr/tags/student-engagement/</link>
+      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.laurent-brisson.fr/tags/student-engagement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>choice of method</title>
+      <link>http://www.laurent-brisson.fr/tags/choice-of-method/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.laurent-brisson.fr/tags/choice-of-method/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>community detection</title>
+      <link>http://www.laurent-brisson.fr/tags/community-detection/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.laurent-brisson.fr/tags/community-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>complex networks</title>
+      <link>http://www.laurent-brisson.fr/tags/complex-networks/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.laurent-brisson.fr/tags/complex-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>crowdfunding</title>
+      <link>http://www.laurent-brisson.fr/tags/crowdfunding/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.laurent-brisson.fr/tags/crowdfunding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>online cooperation</title>
+      <link>http://www.laurent-brisson.fr/tags/online-cooperation/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.laurent-brisson.fr/tags/online-cooperation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>social network analysis</title>
+      <link>http://www.laurent-brisson.fr/tags/social-network-analysis/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.laurent-brisson.fr/tags/social-network-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>communities</title>
+      <link>http://www.laurent-brisson.fr/tags/communities/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.laurent-brisson.fr/tags/communities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>graphlets</title>
+      <link>http://www.laurent-brisson.fr/tags/graphlets/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.laurent-brisson.fr/tags/graphlets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>motifs</title>
+      <link>http://www.laurent-brisson.fr/tags/motifs/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.laurent-brisson.fr/tags/motifs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sankey</title>
+      <link>http://www.laurent-brisson.fr/tags/sankey/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.laurent-brisson.fr/tags/sankey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>temporal networks</title>
+      <link>http://www.laurent-brisson.fr/tags/temporal-networks/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.laurent-brisson.fr/tags/temporal-networks/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Immersive Analytics</title>
@@ -29,38 +205,6 @@
     </item>
     
     <item>
-      <title>crowdfunding</title>
-      <link>http://www.laurent-brisson.fr/tags/crowdfunding/</link>
-      <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>http://www.laurent-brisson.fr/tags/crowdfunding/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>graphlets</title>
-      <link>http://www.laurent-brisson.fr/tags/graphlets/</link>
-      <pubDate>Thu, 31 Oct 2019 16:16:17 +0100</pubDate>
-      <guid>http://www.laurent-brisson.fr/tags/graphlets/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>learning-analytics</title>
-      <link>http://www.laurent-brisson.fr/tags/learning-analytics/</link>
-      <pubDate>Thu, 31 Oct 2019 16:16:17 +0100</pubDate>
-      <guid>http://www.laurent-brisson.fr/tags/learning-analytics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>motifs</title>
-      <link>http://www.laurent-brisson.fr/tags/motifs/</link>
-      <pubDate>Thu, 31 Oct 2019 16:16:17 +0100</pubDate>
-      <guid>http://www.laurent-brisson.fr/tags/motifs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>role detection</title>
       <link>http://www.laurent-brisson.fr/tags/role-detection/</link>
       <pubDate>Thu, 31 Oct 2019 16:16:17 +0100</pubDate>
@@ -73,14 +217,6 @@
       <link>http://www.laurent-brisson.fr/tags/social-interactions/</link>
       <pubDate>Thu, 31 Oct 2019 16:16:17 +0100</pubDate>
       <guid>http://www.laurent-brisson.fr/tags/social-interactions/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>temporal networks</title>
-      <link>http://www.laurent-brisson.fr/tags/temporal-networks/</link>
-      <pubDate>Thu, 31 Oct 2019 16:16:17 +0100</pubDate>
-      <guid>http://www.laurent-brisson.fr/tags/temporal-networks/</guid>
       <description></description>
     </item>
     

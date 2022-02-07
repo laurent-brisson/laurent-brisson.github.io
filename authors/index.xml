@@ -5,7 +5,7 @@
     <link>http://www.laurent-brisson.fr/authors/</link>
       <atom:link href="http://www.laurent-brisson.fr/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 07 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://www.laurent-brisson.fr/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,10 +13,90 @@
     </image>
     
     <item>
+      <title>Imad El Badisy</title>
+      <link>http://www.laurent-brisson.fr/authors/imad-el-badisy/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.laurent-brisson.fr/authors/imad-el-badisy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inna Lyubareva</title>
+      <link>http://www.laurent-brisson.fr/authors/inna-lyubareva/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.laurent-brisson.fr/authors/inna-lyubareva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Julien Mésangeau</title>
+      <link>http://www.laurent-brisson.fr/authors/julien-m%C3%A9sangeau/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.laurent-brisson.fr/authors/julien-m%C3%A9sangeau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Laurent Brisson</title>
       <link>http://www.laurent-brisson.fr/authors/laurent-brisson/</link>
-      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
       <guid>http://www.laurent-brisson.fr/authors/laurent-brisson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nadira Boudjani</title>
+      <link>http://www.laurent-brisson.fr/authors/nadira-boudjani/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.laurent-brisson.fr/authors/nadira-boudjani/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antoine Beugnard</title>
+      <link>http://www.laurent-brisson.fr/authors/antoine-beugnard/</link>
+      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.laurent-brisson.fr/authors/antoine-beugnard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fahima Djelil</title>
+      <link>http://www.laurent-brisson.fr/authors/fahima-djelil/</link>
+      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.laurent-brisson.fr/authors/fahima-djelil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jean-Marie Gilliot</title>
+      <link>http://www.laurent-brisson.fr/authors/jean-marie-gilliot/</link>
+      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.laurent-brisson.fr/authors/jean-marie-gilliot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael Wahiu</title>
+      <link>http://www.laurent-brisson.fr/authors/michael-wahiu/</link>
+      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.laurent-brisson.fr/authors/michael-wahiu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cécile Bothorel</title>
+      <link>http://www.laurent-brisson.fr/authors/c%C3%A9cile-bothorel/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.laurent-brisson.fr/authors/c%C3%A9cile-bothorel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Raphaël Charbey</title>
+      <link>http://www.laurent-brisson.fr/authors/rapha%C3%ABl-charbey/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.laurent-brisson.fr/authors/rapha%C3%ABl-charbey/</guid>
       <description></description>
     </item>
     
@@ -37,22 +117,6 @@
     </item>
     
     <item>
-      <title>Cécile Bothorel</title>
-      <link>http://www.laurent-brisson.fr/authors/c%C3%A9cile-bothorel/</link>
-      <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>http://www.laurent-brisson.fr/authors/c%C3%A9cile-bothorel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Inna Lyubareva</title>
-      <link>http://www.laurent-brisson.fr/authors/inna-lyubareva/</link>
-      <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>http://www.laurent-brisson.fr/authors/inna-lyubareva/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Romain Billot</title>
       <link>http://www.laurent-brisson.fr/authors/romain-billot/</link>
       <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
@@ -69,26 +133,10 @@
     </item>
     
     <item>
-      <title>Jean-Marie Gilliot</title>
-      <link>http://www.laurent-brisson.fr/authors/jean-marie-gilliot/</link>
-      <pubDate>Thu, 31 Oct 2019 16:16:17 +0100</pubDate>
-      <guid>http://www.laurent-brisson.fr/authors/jean-marie-gilliot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Philippe Ruffieux</title>
       <link>http://www.laurent-brisson.fr/authors/philippe-ruffieux/</link>
       <pubDate>Thu, 31 Oct 2019 16:16:17 +0100</pubDate>
       <guid>http://www.laurent-brisson.fr/authors/philippe-ruffieux/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Raphaël Charbey</title>
-      <link>http://www.laurent-brisson.fr/authors/rapha%C3%ABl-charbey/</link>
-      <pubDate>Thu, 31 Oct 2019 16:16:17 +0100</pubDate>
-      <guid>http://www.laurent-brisson.fr/authors/rapha%C3%ABl-charbey/</guid>
       <description></description>
     </item>
     
