@@ -17,15 +17,19 @@
       <link>http://www.laurent-brisson.fr/project/complex-networks/</link>
       <pubDate>Thu, 31 Oct 2019 12:00:00 +0200</pubDate>
       <guid>http://www.laurent-brisson.fr/project/complex-networks/</guid>
-      <description>&lt;p&gt;This work focuses on the analysis of social networks or interaction networks in order to detect communities or behaviours. Temporal evolution of interactions and communities is a major concern.&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a class=&#34;btn btn-outline-primary my-1 mr-1&#34; href=&#34;http://www.laurent-brisson.fr/presentations/community-dynamics-analysis/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  Slideshow
+&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;The approaches used are:&lt;/p&gt;
+&lt;p&gt;This work focuses on the analysis of social networks or interaction networks in order to detect communities or behaviours. Temporal evolution of interactions and communities is a major concern.&lt;/p&gt;
+
+&lt;p&gt;The main research axis of this topic is the analysis of community dynamics. We are particularly interested in the following challenges:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;detection of temporal communities in graphs that may have attributes on nodes and/or edges&lt;/li&gt;
-&lt;li&gt;graphlet identification (small induced subgraphs)&lt;/li&gt;
-&lt;li&gt;machine learning tools for classification and clustering&lt;/li&gt;
-&lt;li&gt;2D visualization tools for community evolution&lt;/li&gt;
+&lt;li&gt;detection of temporal communities&lt;/li&gt;
+&lt;li&gt;detection of evolution patterns&lt;/li&gt;
+&lt;li&gt;description of the evolution of community structures&lt;/li&gt;
+&lt;li&gt;2D tools for visualizing the evolution of communities&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;More broadly, this theme also focuses mechanisms of information propagation within social networks. The influence of network topology and the nature of the messages carried on the propagation of information is studied.&lt;/p&gt;
