@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Philippe Ruffieux | Academic Page</title>
-    <link>http://www.laurent-brisson.fr/authors/philippe-ruffieux/</link>
-      <atom:link href="http://www.laurent-brisson.fr/authors/philippe-ruffieux/index.xml" rel="self" type="application/rss+xml" />
-    <description>Philippe Ruffieux</description>
+    <title>peer assessment | Academic Page</title>
+    <link>http://www.laurent-brisson.fr/tags/peer-assessment/</link>
+      <atom:link href="http://www.laurent-brisson.fr/tags/peer-assessment/index.xml" rel="self" type="application/rss+xml" />
+    <description>peer assessment</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Fri, 23 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://www.laurent-brisson.fr/img/icon-192.png</url>
-      <title>Philippe Ruffieux</title>
-      <link>http://www.laurent-brisson.fr/authors/philippe-ruffieux/</link>
+      <title>peer assessment</title>
+      <link>http://www.laurent-brisson.fr/tags/peer-assessment/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>http://www.laurent-brisson.fr/publication/2021-analysing-peer-assessment-interactions/</link>
       <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
       <guid>http://www.laurent-brisson.fr/publication/2021-analysing-peer-assessment-interactions/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Roles in social interactions: graphlets in temporal networks applied to learning analytics </title>
-      <link>http://www.laurent-brisson.fr/publication/2019-roles-in-social-interactions/</link>
-      <pubDate>Thu, 31 Oct 2019 16:16:17 +0100</pubDate>
-      <guid>http://www.laurent-brisson.fr/publication/2019-roles-in-social-interactions/</guid>
       <description></description>
     </item>
     

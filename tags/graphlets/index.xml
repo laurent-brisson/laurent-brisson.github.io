@@ -5,12 +5,20 @@
     <link>http://www.laurent-brisson.fr/tags/graphlets/</link>
       <atom:link href="http://www.laurent-brisson.fr/tags/graphlets/index.xml" rel="self" type="application/rss+xml" />
     <description>graphlets</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Fri, 23 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://www.laurent-brisson.fr/img/icon-192.png</url>
       <title>graphlets</title>
       <link>http://www.laurent-brisson.fr/tags/graphlets/</link>
     </image>
+    
+    <item>
+      <title>Analysing Peer Assessment Interactions and Their Temporal Dynamics Using a Graphlet-Based Method</title>
+      <link>http://www.laurent-brisson.fr/publication/2021-analysing-peer-assessment-interactions/</link>
+      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.laurent-brisson.fr/publication/2021-analysing-peer-assessment-interactions/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Énumération de motifs dans un graphe d&#39;évolution de communautés</title>
